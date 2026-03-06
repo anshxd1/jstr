@@ -5,7 +5,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_flix_SD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/And_flix_SD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -18,7 +18,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/And_Flix_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -31,7 +31,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Xplore_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/And_Xplore_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -44,7 +44,7 @@
         "logo": "10_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/10_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -57,7 +57,7 @@
         "logo": "22Scope_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/22Scope_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -70,7 +70,7 @@
         "logo": "24hourstv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/24hrs_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -83,7 +83,7 @@
         "logo": "3_0_TV.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/3_0_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -96,7 +96,7 @@
         "logo": "35mm.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/35mm_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -109,7 +109,7 @@
         "logo": "4_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/4_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -122,7 +122,7 @@
         "logo": "6_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/6_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -135,7 +135,7 @@
         "logo": "7X_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/7X_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -148,7 +148,7 @@
         "logo": "9_Bharat_Samachar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/9_Bharat_Samachar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -161,7 +161,7 @@
         "logo": "99TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/99TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -174,7 +174,7 @@
         "logo": "9XJalwa.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/9X_Jalwa_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -187,7 +187,7 @@
         "logo": "9xjhakaas.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/9x_Jhakaas_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -200,7 +200,7 @@
         "logo": "9xTashan.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/9X_Tashan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -213,7 +213,7 @@
         "logo": "9xm.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/9XM_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -226,7 +226,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/A1_TV_Rajasthan.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/A1_TV_Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -239,7 +239,7 @@
         "logo": "Aadinath_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aadinath_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -252,10 +252,10 @@
         "logo": "aagaaztimes.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aagaaz_Times_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2773,
@@ -263,7 +263,7 @@
         "logo": "Aaj_Ki_Khabar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aaj_Ki_Khabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -276,7 +276,7 @@
         "logo": "Aaj_Tak.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aaj_Tak_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -289,7 +289,7 @@
         "logo": "Aakaash_bangla.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aakaash_bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -302,7 +302,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aakash_EduTV_JEE_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -315,7 +315,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aakash_EduTV_NEET_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -328,7 +328,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Aalami_Samay.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aalami_Samay_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -341,7 +341,7 @@
         "logo": "Aaryaa_Bhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aaryaa_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -354,7 +354,7 @@
         "logo": "Aaryaa_Cinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aaryaa_Cinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -367,7 +367,7 @@
         "logo": "Aaryaa_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aaryaa_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -380,10 +380,10 @@
         "logo": "aryatvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aaryaa_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 175,
@@ -391,7 +391,7 @@
         "logo": "Aastha.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aastha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -404,7 +404,7 @@
         "logo": "Aastha_Bhajan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aastha_Bhajan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -417,7 +417,7 @@
         "logo": "Aastha_Tamil.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aastha_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -430,7 +430,7 @@
         "logo": "Aastha_Kannada.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aastha_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -443,7 +443,7 @@
         "logo": "Aastha_Telugu.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aastha_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -456,7 +456,7 @@
         "logo": "AB_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AB_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -469,7 +469,7 @@
         "logo": "abstarnews.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABSTAR_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -482,7 +482,7 @@
         "logo": "ABC_Australia.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABC_Australia_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -495,7 +495,7 @@
         "logo": "ABC_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABC_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -508,7 +508,7 @@
         "logo": "ABN_Andhra_Jyothi.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABN_Andhra_Jyothi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -521,7 +521,7 @@
         "logo": "ABP_Ananda.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_Ananda_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -534,7 +534,7 @@
         "logo": "ABP_Asmita.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_Asmita_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -547,7 +547,7 @@
         "logo": "ABP_Ganga.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_Ganga_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -560,7 +560,7 @@
         "logo": "ABP_Majha.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_Majha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -573,7 +573,7 @@
         "logo": "ABP_News_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_News_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -586,7 +586,7 @@
         "logo": "ABP_Sanjha.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ABP_Sanjha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -599,7 +599,7 @@
         "logo": "Adhya_Bhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Adhya_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -612,7 +612,7 @@
         "logo": "adhyatmatv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Adhyatam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -625,7 +625,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Adipolli.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Adipolli_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -638,7 +638,7 @@
         "logo": "Adithya_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Adithya_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -651,10 +651,10 @@
         "logo": "ekhonkolkata.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Akhon_kolkata_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 494,
@@ -662,10 +662,10 @@
         "logo": "AL_Jazeera.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AL_Jazeera_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 686,
@@ -673,10 +673,10 @@
         "logo": "Alankar_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Alankar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3146,
@@ -684,7 +684,7 @@
         "logo": "AWSN.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AWSN_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -697,10 +697,10 @@
         "logo": "alrght.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AlrightTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1962,
@@ -708,7 +708,7 @@
         "logo": "Amaar_Bangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amaar_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -721,10 +721,10 @@
         "logo": "Amar_Digital_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amar_Digital_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3483,
@@ -732,10 +732,10 @@
         "logo": "amarujala.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amar_Ujala_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1482,
@@ -743,7 +743,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amma.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amma_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -756,7 +756,7 @@
         "logo": "Amrita_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amrita_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -769,7 +769,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amritwani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amritwani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -782,7 +782,7 @@
         "logo": "Amritwani_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Amritwani_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -795,7 +795,7 @@
         "logo": "AMV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AMV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -808,7 +808,7 @@
         "logo": "Anaadi_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Anaadi_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -821,10 +821,10 @@
         "logo": "Anand_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Anand_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1796,
@@ -832,7 +832,7 @@
         "logo": "Anand_Barta.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Anand_Barta_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -845,7 +845,7 @@
         "logo": "ANBNews.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ANBNews_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -858,7 +858,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Prive_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/And_Prive_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -871,7 +871,7 @@
         "logo": "Angel_TV_HD.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Angel_TV_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -884,7 +884,7 @@
         "logo": "AnimalPlanetEng.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_Eng_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -897,7 +897,7 @@
         "logo": "AnimalPlanetHDEng.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -910,7 +910,7 @@
         "logo": "AnimalPlanetHDHin.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AnimalPlanetHDHin_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -923,7 +923,7 @@
         "logo": "AnimalPlanetHDTam.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_Tam_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -936,10 +936,10 @@
         "logo": "AnimalPlanetHDTel.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_HD_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 566,
@@ -947,7 +947,7 @@
         "logo": "AnimalPlanetHin.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -960,10 +960,10 @@
         "logo": "AnimalPlanetTam.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3183,
@@ -971,10 +971,10 @@
         "logo": "AnimalPlanetTel.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animal_Planet_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2258,
@@ -982,7 +982,7 @@
         "logo": "Animax.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Animax_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -995,10 +995,10 @@
         "logo": "Anjan_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Anjan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1699,
@@ -1006,7 +1006,7 @@
         "logo": "annnewssrt.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ANN_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1019,7 +1019,7 @@
         "logo": "Aone_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aone_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1032,7 +1032,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_ARTS.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AP_BIE_ARTS_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1045,7 +1045,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_BIE_SCIENCE.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AP_BIE_SCIENCE_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1058,7 +1058,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/AP_CIE_SIVE.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/AP_CIE_SIVE_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1071,7 +1071,7 @@
         "logo": "Apex_Entertainment.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Apex_Entertainment_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1084,7 +1084,7 @@
         "logo": "Apex_News_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Apex_News_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1097,7 +1097,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/APN_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/APN_News_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1110,7 +1110,7 @@
         "logo": "Aradhana_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aradhana_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1123,7 +1123,7 @@
         "logo": "Argus_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Argus_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1136,10 +1136,10 @@
         "logo": "Arjun_Kanungo.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Arjun_Kanungo_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 963,
@@ -1147,7 +1147,7 @@
         "logo": "Arre.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Arre_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1160,7 +1160,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Artist_Aloud.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Artist_Aloud_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1173,7 +1173,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Arya_Sandesh_Tv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Arya_Sandesh_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1186,7 +1186,7 @@
         "logo": "Aryan_TV_National.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aryan_TV_National_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1199,7 +1199,7 @@
         "logo": "Ashtavinayak_Ranjangaon.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ashtavinayak_Ranjangaon_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1212,10 +1212,10 @@
         "logo": "Ashwaveega_News_24x7.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ashwaveega_News_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1002,
@@ -1223,7 +1223,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_English.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asia_Cup_English_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1236,7 +1236,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_Hindi.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asia_Cup_Hindi_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1249,7 +1249,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_Tamil.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asia_Cup_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1262,7 +1262,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Asia_Cup_Telugu.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asia_Cup_Telugu_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1275,7 +1275,7 @@
         "logo": "Asian_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asian_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1288,7 +1288,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1301,7 +1301,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1314,7 +1314,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1327,7 +1327,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Movies_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1340,7 +1340,7 @@
         "logo": "Asianet_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1353,7 +1353,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Plus.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Asianet_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1366,7 +1366,7 @@
         "logo": "Asom_Live_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NB_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1379,7 +1379,7 @@
         "logo": "Assam_Talks.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Assam_Talks_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1392,7 +1392,7 @@
         "logo": "Atmadarshan_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Atmadarshan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1405,7 +1405,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ATN_Samachar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ATN_Samachar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1418,10 +1418,10 @@
         "logo": "Atrangii.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Atrangii_Fast_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3111,
@@ -1429,7 +1429,7 @@
         "logo": "ATV_INDIA_NEWS.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ATV_INDIA_NEWS_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1442,7 +1442,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Auroville_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Auroville_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1455,10 +1455,10 @@
         "logo": "Awaaz_India_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Awaaz_India_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1175,
@@ -1466,7 +1466,7 @@
         "logo": "Awakening.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Awakening_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1479,7 +1479,7 @@
         "logo": "Ayush_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ayush_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1492,7 +1492,7 @@
         "logo": "B4U_Bhojpuri.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Bhojpuri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1505,7 +1505,7 @@
         "logo": "B4U_Kadak.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Kadak_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1518,7 +1518,7 @@
         "logo": "b4u_movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1531,7 +1531,7 @@
         "logo": "B4U_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/B4U_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1544,7 +1544,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Babulnaath_Mumbai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1557,7 +1557,7 @@
         "logo": "Badakhabar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Badakhabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1570,7 +1570,7 @@
         "logo": "Balle_Balle_TV.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Balle_Balle_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1583,7 +1583,7 @@
         "logo": "Bangla_Bhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bangla_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1596,7 +1596,7 @@
         "logo": "Bangla_Jago.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bangla_Jago_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1609,7 +1609,7 @@
         "logo": "Bansal_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bansal_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1622,7 +1622,7 @@
         "logo": "BHStyle_Icon.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BHStyle_Icon_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1635,10 +1635,10 @@
         "logo": "aanadhamtvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhagyam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3107,
@@ -1646,10 +1646,10 @@
         "logo": "bhakhtisiri.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhakthi_Siri__BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3236,
@@ -1657,7 +1657,7 @@
         "logo": "Bhakti_Dhara.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhakti_Dhara_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1670,7 +1670,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_Sagar.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhakti_Sagar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1683,7 +1683,7 @@
         "logo": "Bhaktisagar.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhaktisagar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1696,7 +1696,7 @@
         "logo": "Bhakti_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhakti_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1709,7 +1709,7 @@
         "logo": "Bharat_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1722,7 +1722,7 @@
         "logo": "Bharat_AtoZ.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_AtoZ_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1735,7 +1735,7 @@
         "logo": "Bharat_Express.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Express_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1748,7 +1748,7 @@
         "logo": "Bharat_Nation.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Nation_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1761,7 +1761,7 @@
         "logo": "Bharat_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1774,7 +1774,7 @@
         "logo": "Bharat_Samachar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhaarat_Samachar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1787,7 +1787,7 @@
         "logo": "Bharat_TV24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_TV24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1800,7 +1800,7 @@
         "logo": "Bharat_Update.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Update_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1813,7 +1813,7 @@
         "logo": "BHI.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BHI_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1826,7 +1826,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhojpuri_Cinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1839,7 +1839,7 @@
         "logo": "Bhojpuri_Junction.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhojpuri_Junction_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1852,7 +1852,7 @@
         "logo": "Bhoomi_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bhoomi_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1865,7 +1865,7 @@
         "logo": "BHP_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BHP_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1878,10 +1878,10 @@
         "logo": "BHP_News_Gujarat.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BHP_News_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1359,
@@ -1889,7 +1889,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_Magic.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Big_Magic_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1902,7 +1902,7 @@
         "logo": "Big_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Big_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1915,7 +1915,7 @@
         "logo": "Birla_Brainiacs.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Birla_Brainiacs_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1928,10 +1928,10 @@
         "logo": "Bloomberg_Originals.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bloomberg_Originals_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3155,
@@ -1939,10 +1939,10 @@
         "logo": "Bloomberg_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bloomberg_TV+_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1248,
@@ -1950,7 +1950,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bol_Hadippa.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bol_Hadippa_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1963,7 +1963,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Bollywood_Hungama.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bollywood_Hungama_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1976,7 +1976,7 @@
         "logo": "bollywoodmasala.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/bollywoodmasala_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -1989,7 +1989,7 @@
         "logo": "Boogle_Bangla.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Boogle_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2002,7 +2002,7 @@
         "logo": "Boogle_Bollywood.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Boogle_Bollywood_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2015,7 +2015,7 @@
         "logo": "Brave_TV.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Brave_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2028,10 +2028,10 @@
         "logo": "Brio_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Brio_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1192,
@@ -2039,7 +2039,7 @@
         "logo": "Brit_Asia.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Brit_Asia_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2052,7 +2052,7 @@
         "logo": "BS9_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BS9_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2065,7 +2065,7 @@
         "logo": "BSTV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BSTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2078,7 +2078,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2091,7 +2091,7 @@
         "logo": "Buletin_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Buletin_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2104,7 +2104,7 @@
         "logo": "BVG.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BVG_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2117,7 +2117,7 @@
         "logo": "BVTV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/BVTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2130,7 +2130,7 @@
         "logo": "C_News_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/C_News_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2143,7 +2143,7 @@
         "logo": "Calcutta_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Calcutta_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2156,7 +2156,7 @@
         "logo": "Calvary.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Calvary_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2169,7 +2169,7 @@
         "logo": "Captain.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raapchik_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2182,7 +2182,7 @@
         "logo": "CNHDEnglish.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CN_HD_English_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2195,7 +2195,7 @@
         "logo": "CNHDHindi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNHDHindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2208,10 +2208,10 @@
         "logo": "CNHDKannada.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_HD+_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3456,
@@ -2219,10 +2219,10 @@
         "logo": "CNHDMalayalam.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_HD+_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3457,
@@ -2230,10 +2230,10 @@
         "logo": "CNHDMarathi.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_HD+_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1081,
@@ -2241,7 +2241,7 @@
         "logo": "CNHDTamil.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CN_HD_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2254,7 +2254,7 @@
         "logo": "CNHDTelugu.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CN_HD_Telugu_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2267,7 +2267,7 @@
         "logo": "CNHindi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2280,10 +2280,10 @@
         "logo": "CNKannada.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3036,
@@ -2291,10 +2291,10 @@
         "logo": "CNMalayalam.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3454,
@@ -2302,10 +2302,10 @@
         "logo": "CNMarathi.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 817,
@@ -2313,7 +2313,7 @@
         "logo": "CNTamil.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Tam_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2326,7 +2326,7 @@
         "logo": "CNTelugu.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Cartoon_Network_Tel_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2339,7 +2339,7 @@
         "logo": "CENTA_TV.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CENTA_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2352,7 +2352,7 @@
         "logo": "Chanakya_News_Ind_Raj.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chanakya_News_Ind_Raj_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2365,7 +2365,7 @@
         "logo": "Chanakya_News_Jharkhand.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chanakya_News_Jharkhand_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2378,7 +2378,7 @@
         "logo": "Chanakya_News_National.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chanakya_News_National_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2391,7 +2391,7 @@
         "logo": "Chanakya_News_UPUK.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chanakya_News_UPUK_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2404,7 +2404,7 @@
         "logo": "Channel_News_Asia_International.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Channel_News_Asia_International_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2417,7 +2417,7 @@
         "logo": "Channel_Vision.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Channel_Vision_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2430,7 +2430,7 @@
         "logo": "Channel_Win.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Channel_Win_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2443,10 +2443,10 @@
         "logo": "CharchaAajKi.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Charcha_Aaj_Ki_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 517,
@@ -2454,7 +2454,7 @@
         "logo": "Chardikla_Time_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chardikla_Time_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2467,7 +2467,7 @@
         "logo": "Chintu_TV.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chintu_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2480,7 +2480,7 @@
         "logo": "Chutti_TV.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Chutti_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2493,7 +2493,7 @@
         "logo": "CNBCAwaaz.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNBCAwaaz_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2506,7 +2506,7 @@
         "logo": "CNBCBajar.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNBC_Bazaar_MNO_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2519,7 +2519,7 @@
         "logo": "CNBCTV18.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNBC_Tv_18_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2532,7 +2532,7 @@
         "logo": "CNBCTV18Prime.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2545,7 +2545,7 @@
         "logo": "CNN.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNN_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2558,7 +2558,7 @@
         "logo": "CNN_NEWS_18.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CNN_NEWS_18_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2571,7 +2571,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Coke_Studio_Bharat.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Coke_Studio_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2584,7 +2584,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CokeStudio_Bharat_S1.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CokeStudio_Bharat_S1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2597,7 +2597,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Coke_Studio_Tamil.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Coke_Studio_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2610,7 +2610,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CokeStudio_Tamil_S1.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CokeStudio_Tamil_S1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2623,7 +2623,7 @@
         "logo": "Colors_Bangla_Cinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_Cinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2636,7 +2636,7 @@
         "logo": "Colors_Bengali_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bengali_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2649,7 +2649,7 @@
         "logo": "Colors_Bangla_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Bangla_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2662,7 +2662,7 @@
         "logo": "Colors_Cineplex.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Cineplex_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2675,7 +2675,7 @@
         "logo": "ColorsCineplexBollywood.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexBollywood_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2688,7 +2688,7 @@
         "logo": "ColorsCineplexHD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexHD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2701,7 +2701,7 @@
         "logo": "ColorsCineplexSuperhit.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsCineplexSuperhit_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2714,7 +2714,7 @@
         "logo": "ColorsGujarati.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsGujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2727,7 +2727,7 @@
         "logo": "Colors_Gujarati_Cinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Gujarati_Cinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2740,7 +2740,7 @@
         "logo": "ColorsHD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsHD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2753,7 +2753,7 @@
         "logo": "Colors_Infinity_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2766,7 +2766,7 @@
         "logo": "Colors_Infinity_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Infinity_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2779,7 +2779,7 @@
         "logo": "ColorsKannadaCinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsKannadaCinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2792,7 +2792,7 @@
         "logo": "Colors_Kannada_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Kannada_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2805,7 +2805,7 @@
         "logo": "Colors_Kannada_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Kannada_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2818,7 +2818,7 @@
         "logo": "Colors_Marathi_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2831,7 +2831,7 @@
         "logo": "Colors_Marathi_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Marathi_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2844,7 +2844,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Oriya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2857,7 +2857,7 @@
         "logo": "ColorsRishtey.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rishtey_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2870,7 +2870,7 @@
         "logo": "Colors_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2883,7 +2883,7 @@
         "logo": "ColorsSuper.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsSuper_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2896,7 +2896,7 @@
         "logo": "Colors_Tamil.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Colors_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2909,7 +2909,7 @@
         "logo": "ColorsTamilHD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ColorsTamilHD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2922,7 +2922,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Comedy_Central_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2935,7 +2935,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Comedy_Central_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2948,7 +2948,7 @@
         "logo": "CTVN_AKD_Plus.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ctvn_Akd_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2961,7 +2961,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Current_Trend_Assam.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Current_Trend_Assam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2974,7 +2974,7 @@
         "logo": "CVR_English.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CVR_English_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -2987,7 +2987,7 @@
         "logo": "CVR_Health.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CVR_Health_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3000,7 +3000,7 @@
         "logo": "CVR_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CVR_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3013,7 +3013,7 @@
         "logo": "CVR_OM_Spiritual.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CVR_OM_Spiritual_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3026,7 +3026,7 @@
         "logo": "CyberPeace_TV.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/CyberPeace_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3039,7 +3039,7 @@
         "logo": "Discovery_Channel_Tamil.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Channel_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3052,7 +3052,7 @@
         "logo": "DA_News_Plus.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DA_News_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3065,7 +3065,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dabangg_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3078,7 +3078,7 @@
         "logo": "Dadabhagwan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dadabhagwan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3091,7 +3091,7 @@
         "logo": "Dada_Bhagwan_Foundation_Gujarati.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dada_Bhagwan_Foundation_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3104,7 +3104,7 @@
         "logo": "Dagdusheth_Pune.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dagdusheth_Pune_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3117,7 +3117,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Daijiworld_TV_24X7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3130,7 +3130,7 @@
         "logo": "Daily_Post_PHH.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Daily_Post_PHH_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3143,7 +3143,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dangal_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3156,7 +3156,7 @@
         "logo": "Darshan_24.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Darshan_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3169,7 +3169,7 @@
         "logo": "DD_Arunprabha.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Arunprabha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3182,7 +3182,7 @@
         "logo": "DD_Bangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3195,7 +3195,7 @@
         "logo": "DD_bharati.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_bharati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3208,7 +3208,7 @@
         "logo": "DD_Bihar.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Bihar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3221,7 +3221,7 @@
         "logo": "DD_Girnar.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Girnar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3234,7 +3234,7 @@
         "logo": "DD_Gyandarshan.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Gyandarshan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3247,7 +3247,7 @@
         "logo": "DD_India.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3260,7 +3260,7 @@
         "logo": "DD_Kashir.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Kashir_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3273,7 +3273,7 @@
         "logo": "DD_Kisan.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Kisan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3286,7 +3286,7 @@
         "logo": "DD_Madhya_Pradesh.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Madhya_Pradesh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3299,7 +3299,7 @@
         "logo": "DD_Malayalam.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3312,7 +3312,7 @@
         "logo": "DD_National.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_National_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3325,7 +3325,7 @@
         "logo": "DD_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3338,7 +3338,7 @@
         "logo": "DD_North_East.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_North_East_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3351,7 +3351,7 @@
         "logo": "DD_Oriya.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Oriya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3364,7 +3364,7 @@
         "logo": "DD_Punjabi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Punjabi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3377,7 +3377,7 @@
         "logo": "DD_Rajasthan_Jaipur.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Rajasthan_Jaipur_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3390,7 +3390,7 @@
         "logo": "DD_Sahayadri.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Sahayadri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3403,7 +3403,7 @@
         "logo": "DD_Saptagiri.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Saptagiri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3416,7 +3416,7 @@
         "logo": "DD_SATHEE_1.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3429,7 +3429,7 @@
         "logo": "DD_SATHEE_2.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3442,7 +3442,7 @@
         "logo": "DD_SATHEE_3.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_3_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3455,7 +3455,7 @@
         "logo": "DD_SATHEE_4.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_4_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3468,7 +3468,7 @@
         "logo": "DD_SATHEE_5.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_5_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3481,7 +3481,7 @@
         "logo": "DD_SATHEE_6.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_6_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3494,7 +3494,7 @@
         "logo": "DD_SATHEE_7.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3507,7 +3507,7 @@
         "logo": "DD_SATHEE_8.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SATHEE_8_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3520,7 +3520,7 @@
         "logo": "DD_Sports.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Sports_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3533,7 +3533,7 @@
         "logo": "DD_SWAYAM_PRABHA_23.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_23_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3546,7 +3546,7 @@
         "logo": "DD_SWAYAM_PRABHA_24.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3559,7 +3559,7 @@
         "logo": "DD_SWAYAM_PRABHA_25.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_25_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3572,7 +3572,7 @@
         "logo": "DD_SWAYAM_PRABHA_26.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_26_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3585,7 +3585,7 @@
         "logo": "DD_SWAYAM_PRABHA_27.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_27_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3598,7 +3598,7 @@
         "logo": "DD_SWAYAM_PRABHA_28.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_28_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3611,7 +3611,7 @@
         "logo": "DD_SWAYAM_PRABHA_29.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_29_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3624,7 +3624,7 @@
         "logo": "DD_SWAYAM_PRABHA_30.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_30_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3637,7 +3637,7 @@
         "logo": "DD_SWAYAM_PRABHA_31.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_31_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3650,7 +3650,7 @@
         "logo": "DD_SWAYAM_PRABHA_32.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_32_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3663,7 +3663,7 @@
         "logo": "DD_SWAYAM_PRABHA_33.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_33_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3676,7 +3676,7 @@
         "logo": "DD_SWAYAM_PRABHA_34.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_34_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3689,7 +3689,7 @@
         "logo": "DD_SWAYAM_PRABHA_35.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_35_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3702,7 +3702,7 @@
         "logo": "DD_SWAYAM_PRABHA_36.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_36_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3715,7 +3715,7 @@
         "logo": "DD_SWAYAM_PRABHA_37.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_37_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3728,7 +3728,7 @@
         "logo": "DD_SWAYAM_PRABHA_38.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_38_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3741,7 +3741,7 @@
         "logo": "DD_SWAYAM_PRABHA_39.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_39_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3754,7 +3754,7 @@
         "logo": "DD_SWAYAM_PRABHA_40.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_SWAYAM_PRABHA_40_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3767,7 +3767,7 @@
         "logo": "DD_urdu.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_urdu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3780,7 +3780,7 @@
         "logo": "DD_Uttar_Pradesh.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Uttar_Pradesh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3793,7 +3793,7 @@
         "logo": "DD_Yadagiri.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Yadagiri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3806,7 +3806,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD13_Guwahati_NE_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3819,7 +3819,7 @@
         "logo": "DD5_Podhigai.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD5_Podhigai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3832,7 +3832,7 @@
         "logo": "DD9_chandana_kannada.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD9_chandana_kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3845,7 +3845,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Desh_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Desh_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3858,7 +3858,7 @@
         "logo": "Desi_Channel.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Desi_Channel_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3871,7 +3871,7 @@
         "logo": "Desi_Music_Station.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Desi_Music_Station_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3884,7 +3884,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Tashan_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Desi_Tashan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3897,7 +3897,7 @@
         "logo": "Desika_daya.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Desika_daya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3910,7 +3910,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dhamaal_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3923,7 +3923,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dhamaal_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3936,7 +3936,7 @@
         "logo": "DharmaGranth_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DharmGranth_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3949,7 +3949,7 @@
         "logo": "Arihant_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Arihant_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3962,10 +3962,10 @@
         "logo": "dharshantvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dharsan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3006,
@@ -3973,7 +3973,7 @@
         "logo": "Dhoom_Music_Bangla.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dhoom_Music_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3986,7 +3986,7 @@
         "logo": "Digishala.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Digishala_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -3999,7 +3999,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Dil_Se.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dil_Se_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4012,7 +4012,7 @@
         "logo": "Discovery_Channel_Bengali.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Channel_Ben_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4025,7 +4025,7 @@
         "logo": "Discovery_Channel_Eng.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Channel_Eng_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4038,10 +4038,10 @@
         "logo": "DiscoveryHDBen.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_HD_Bengali_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 463,
@@ -4049,7 +4049,7 @@
         "logo": "DiscoveryHDEng.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_HD_World_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4062,7 +4062,7 @@
         "logo": "DiscoveryHDHin.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryHDHin_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4075,10 +4075,10 @@
         "logo": "DiscoveryHDKan.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_HD_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3431,
@@ -4086,7 +4086,7 @@
         "logo": "DiscoveryHDMal.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryHDMal_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4099,10 +4099,10 @@
         "logo": "DiscoveryHDTam.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_HD_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3446,
@@ -4110,10 +4110,10 @@
         "logo": "DiscoveryHDTel.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_HD_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 575,
@@ -4121,7 +4121,7 @@
         "logo": "Discovery_Channel_Hindi.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Channel_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4134,10 +4134,10 @@
         "logo": "DiscoveryKan.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 554,
@@ -4145,7 +4145,7 @@
         "logo": "DiscoveryKidsHin.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Kids_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4158,7 +4158,7 @@
         "logo": "DiscoveryKidsKan.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryKidsKan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4171,10 +4171,10 @@
         "logo": "DiscoveryKidsMal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Kids_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 550,
@@ -4182,7 +4182,7 @@
         "logo": "DiscoveryKidsTam.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Kids_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4195,10 +4195,10 @@
         "logo": "DiscoveryKidsTel.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Kids_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3425,
@@ -4206,10 +4206,10 @@
         "logo": "DiscoveryMal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 568,
@@ -4217,7 +4217,7 @@
         "logo": "DiscoveryScienceEng.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Science_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4230,7 +4230,7 @@
         "logo": "DiscoveryScienceHin.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryScienceHin_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4243,7 +4243,7 @@
         "logo": "DiscoveryTam.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DiscoveryTam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4256,7 +4256,7 @@
         "logo": "Discovery_Channel_Telugu.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Channel_Tel_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4269,7 +4269,7 @@
         "logo": "Discovery_Turbo.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Discovery_Turbo_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4282,7 +4282,7 @@
         "logo": "Disha_tv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disha_tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4295,7 +4295,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Channel_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4308,7 +4308,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_International_HD.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_International_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4321,7 +4321,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Junior.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Disney_Junior_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4334,7 +4334,7 @@
         "logo": "Divya_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Divya_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4347,7 +4347,7 @@
         "logo": "Divya_Vani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Divya_Vani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4360,7 +4360,7 @@
         "logo": "Divyalok_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Divyalok_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4373,7 +4373,7 @@
         "logo": "Divyang_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Divyang_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4386,7 +4386,7 @@
         "logo": "DNN.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DNN_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4399,10 +4399,10 @@
         "logo": "DocuBay.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DocuBay_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1758,
@@ -4410,7 +4410,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DPK_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DPK_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4423,7 +4423,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/DTV_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DTV_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4436,7 +4436,7 @@
         "logo": "dw.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/dw_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4449,7 +4449,7 @@
         "logo": "DY_365.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DY_365_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4462,7 +4462,7 @@
         "logo": "E_24.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/E_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4475,7 +4475,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/E_News79.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/E_News79_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4488,7 +4488,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ek_Onkar.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ek_Onkar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4501,7 +4501,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Bharat_Odia.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ekamra_Bharat_Odia_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4514,7 +4514,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Cinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ekamra_Cinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4527,7 +4527,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Manoranjan.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ekamra_Manoranjan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4540,7 +4540,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ekamra_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4553,7 +4553,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_Nilach_akra.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ekamra_Nilach_akra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4566,7 +4566,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Enrich_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Enrich_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4579,7 +4579,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Enterr_10_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4592,7 +4592,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Epic_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4605,10 +4605,10 @@
         "logo": "EPIC_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/EPIC_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1675,
@@ -4616,7 +4616,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ESG.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ESG_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4629,7 +4629,7 @@
         "logo": "ET_Now.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ET_Now_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4642,7 +4642,7 @@
         "logo": "ET_Now_Swadesh.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ET_Now_Swadesh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4655,7 +4655,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Abhiruchi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4668,7 +4668,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Andhra_pradesh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4681,7 +4681,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Cinema_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4694,7 +4694,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Cinema_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4707,7 +4707,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4720,7 +4720,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Life_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4733,7 +4733,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4746,7 +4746,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Plus_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4759,7 +4759,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telangana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4772,7 +4772,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4785,7 +4785,7 @@
         "logo": "Euro_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Euro_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4798,7 +4798,7 @@
         "logo": "Dsports.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dsports_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4811,7 +4811,7 @@
         "logo": "Dsports_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Dsports_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4824,7 +4824,7 @@
         "logo": "Express_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Express_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4837,7 +4837,7 @@
         "logo": "ENB.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ENB_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4850,7 +4850,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Express_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Express_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4863,7 +4863,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Fakt_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4876,7 +4876,7 @@
         "logo": "Fashion_India.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Fashion_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4889,10 +4889,10 @@
         "logo": "Fast1.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Fast1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1174,
@@ -4900,7 +4900,7 @@
         "logo": "Fateh_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Fateh_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4913,10 +4913,10 @@
         "logo": "Filamchi_Bhojpuri.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Filamchi_Bhojpuri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 927,
@@ -4924,7 +4924,7 @@
         "logo": "First_India_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/First_India_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4937,7 +4937,7 @@
         "logo": "Firstpost.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Firstpost_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4950,10 +4950,10 @@
         "logo": "Flexibility_Yoga.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Flexibility_Yoga_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 634,
@@ -4961,7 +4961,7 @@
         "logo": "Flower_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Flower_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4974,7 +4974,7 @@
         "logo": "FM_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/FM_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -4987,7 +4987,7 @@
         "logo": "Food_Food.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Food_Food_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5000,7 +5000,7 @@
         "logo": "Food_XP.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Food_XP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5013,7 +5013,7 @@
         "logo": "France_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/France_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5026,7 +5026,7 @@
         "logo": "Friends_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Friends_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5039,7 +5039,7 @@
         "logo": "FTV_HD.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/FTV_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5052,10 +5052,10 @@
         "logo": "G94News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/G94_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1415,
@@ -5063,7 +5063,7 @@
         "logo": "Ganga_Darshan_Varanasi.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ganga_Darshan_Varanasi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5076,7 +5076,7 @@
         "logo": "Gangaur.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gangaur_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5089,7 +5089,7 @@
         "logo": "garvgurbani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GarvGurbani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5102,7 +5102,7 @@
         "logo": "Garvi_Gujarat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Garvi_Gujarat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5115,10 +5115,10 @@
         "logo": "Garvi_Gujarat_Gujarati.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Garvi_Gujarat_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1898,
@@ -5126,7 +5126,7 @@
         "logo": "GBN24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GBN24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5139,7 +5139,7 @@
         "logo": "Gemini_Comedy.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Comedy_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5152,7 +5152,7 @@
         "logo": "Gemini_Life.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Life_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5165,7 +5165,7 @@
         "logo": "Gemini_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Movies_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5178,7 +5178,7 @@
         "logo": "Gemini_Music_HD.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5191,7 +5191,7 @@
         "logo": "Gemini_TV_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gemini_TV_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5204,7 +5204,7 @@
         "logo": "Ghaint_Punjab.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ghaint_Punjab_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5217,7 +5217,7 @@
         "logo": "Gj_Desi_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gj_Desi_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5230,7 +5230,7 @@
         "logo": "Global_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Global_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5243,7 +5243,7 @@
         "logo": "Global_Punjab.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Global_Punjab_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5256,7 +5256,7 @@
         "logo": "Global_Sanjh.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Global_Sanjh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5269,7 +5269,7 @@
         "logo": "Globe_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Globe_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5282,7 +5282,7 @@
         "logo": "Goa365.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Goa365_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5295,7 +5295,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/God_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/God_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5308,10 +5308,10 @@
         "logo": "Godlywood_Studios.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Godlywood_Studios_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1273,
@@ -5319,7 +5319,7 @@
         "logo": "Gomantak_TV.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sugran_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5332,7 +5332,7 @@
         "logo": "Tez.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tez_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5345,7 +5345,7 @@
         "logo": "NDTV_Good_Times.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Good_Times_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5358,7 +5358,7 @@
         "logo": "Goodness_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Goodness_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5371,7 +5371,7 @@
         "logo": "GoodNews_Channel.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GoodNews_Channel_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5384,10 +5384,10 @@
         "logo": "Gospel_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gospel_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2775,
@@ -5395,7 +5395,7 @@
         "logo": "Grace_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Grace_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5408,7 +5408,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gramin_Drishti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gramin_Drishti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5421,7 +5421,7 @@
         "logo": "Green_Chillies_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Green_Chillies_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5434,10 +5434,10 @@
         "logo": "greengold.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Green_Gold_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 643,
@@ -5445,7 +5445,7 @@
         "logo": "GS_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GS_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5458,10 +5458,10 @@
         "logo": "GTCNews.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GTC_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3470,
@@ -5469,10 +5469,10 @@
         "logo": "GTCPunjabi.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GTC_Punjabi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3464,
@@ -5480,10 +5480,10 @@
         "logo": "GuaranteeNews.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Guarantee_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3385,
@@ -5491,10 +5491,10 @@
         "logo": "Gubbare.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gubbare_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3249,
@@ -5502,10 +5502,10 @@
         "logo": "Guided_Meditation.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Guided_Meditation_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3314,
@@ -5513,7 +5513,7 @@
         "logo": "Gujarat_Wild_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gujarat_Wild_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5526,7 +5526,7 @@
         "logo": "Gujarat_First_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gujarat_First_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5539,7 +5539,7 @@
         "logo": "Gulistan_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gulistan_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5552,7 +5552,7 @@
         "logo": "Gurkebaani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gurkebaani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5565,7 +5565,7 @@
         "logo": "Gurukul_Rajkot.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gurukul_Rajkot_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5578,7 +5578,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Guruvayur_Devaswom.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Guruvayur_Devaswom_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5591,7 +5591,7 @@
         "logo": "Gusto_TV.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gusto_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5604,7 +5604,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gyan_Brikshya.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gyan_Brikshya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5617,7 +5617,7 @@
         "logo": "Gyanvani_1.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gyanvani_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5630,7 +5630,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Gyanvani_2.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Gyanvani_2_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5643,7 +5643,7 @@
         "logo": "Har_Khabar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Har_Khabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5656,7 +5656,7 @@
         "logo": "Harekrsna.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Harekrsna_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5669,7 +5669,7 @@
         "logo": "Hare_Krsna_music.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hare_Krsna_music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5682,7 +5682,7 @@
         "logo": "Hare_Krsna_Pravachan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hare_Krsna_Pravachan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5695,7 +5695,7 @@
         "logo": "Harvest_TV_24x7.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Harvest_TV_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5708,7 +5708,7 @@
         "logo": "Haryana_Beats.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Haryana_Beats_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5721,7 +5721,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Haryana_Buzz.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Haryana_Buzz_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5734,7 +5734,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/HR_Tashan_Music.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/HR_Tashan_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5747,7 +5747,7 @@
         "logo": "Haryanvi_Hits.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Haryanvi_Hits_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5760,7 +5760,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Headline_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Headline_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5773,10 +5773,10 @@
         "logo": "Headlines_Kolkata.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Headlines_Kolkata_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1246,
@@ -5784,10 +5784,10 @@
         "logo": "Headlines_Tripura.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Headlines_Tripura_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1315,
@@ -5795,7 +5795,7 @@
         "logo": "HHDL.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/HHDL_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5808,7 +5808,7 @@
         "logo": "Hi_Dost.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hi_Dost_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5821,7 +5821,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hiff_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hiff_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5834,7 +5834,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Highbrow.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Highbrow_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5847,7 +5847,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Elementary.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Himshiksha_Elementary_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5860,7 +5860,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Higher.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Himshiksha_Higher_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5873,7 +5873,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Himshiksha_Vocational.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Himshiksha_Vocational_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5886,7 +5886,7 @@
         "logo": "Hindi_Khabar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hindi_Khabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5899,7 +5899,7 @@
         "logo": "Hindu_Dharmam.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hindu_Dharmam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5912,7 +5912,7 @@
         "logo": "History_TV18_SD.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_TV18_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5925,7 +5925,7 @@
         "logo": "History_HD.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5938,7 +5938,7 @@
         "logo": "History_18_Hindi.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_18_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5951,7 +5951,7 @@
         "logo": "History_18_Tamil.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_18_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5964,7 +5964,7 @@
         "logo": "History_18_Telugu.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/History_18_Telugu_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5977,7 +5977,7 @@
         "logo": "HM_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/HM_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -5990,7 +5990,7 @@
         "logo": "HNN24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/HNN24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6003,10 +6003,10 @@
         "logo": "holidayscapes.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Holidaycapes_by_Stingray_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1780,
@@ -6014,7 +6014,7 @@
         "logo": "Hoopla_Kids_TV.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hoopla_Kids_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6027,7 +6027,7 @@
         "logo": "Hornbill_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hornbill_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6040,7 +6040,7 @@
         "logo": "Hosanna_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hosanna_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6053,7 +6053,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hungama.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hungama_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6066,7 +6066,7 @@
         "logo": "I_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/I_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6079,7 +6079,7 @@
         "logo": "IBC-24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IBC24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6092,7 +6092,7 @@
         "logo": "Ichhapuran_Balaji_Rajasthan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ichhapuran_Balaji_Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6105,7 +6105,7 @@
         "logo": "ICAI.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ICAI_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6118,7 +6118,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Imayam_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Imayam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6131,7 +6131,7 @@
         "logo": "in24news.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Virat_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6144,7 +6144,7 @@
         "logo": "InGoa24x7.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/InGoa24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6157,7 +6157,7 @@
         "logo": "IN24_Live.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IN24_Live_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6170,7 +6170,7 @@
         "logo": "IND_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IND_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6183,7 +6183,7 @@
         "logo": "India24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6196,7 +6196,7 @@
         "logo": "Aap_Tak_tv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aap_Tak_tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6209,10 +6209,10 @@
         "logo": "IndiaAhead.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Ahead_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2772,
@@ -6220,7 +6220,7 @@
         "logo": "India_Daily_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Daily_Live_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6233,7 +6233,7 @@
         "logo": "India_news.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_news_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6246,7 +6246,7 @@
         "logo": "India_News_Gujarat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_News_Gujarat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6259,7 +6259,7 @@
         "logo": "India_News_Haryana.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_News_Haryana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6272,7 +6272,7 @@
         "logo": "India_News_MP.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_News_MP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6285,7 +6285,7 @@
         "logo": "India_News_Punjab.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_News_Punjab_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6298,7 +6298,7 @@
         "logo": "India_News_Rajasthan.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_News_Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6311,7 +6311,7 @@
         "logo": "India_News_UP.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_News_UP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6324,7 +6324,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Now.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Now_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6337,7 +6337,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Prime_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Prime_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6350,7 +6350,7 @@
         "logo": "India_Science.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Science_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6363,7 +6363,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Superfast.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Superfast_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6376,7 +6376,7 @@
         "logo": "India_Today.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Today_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6389,7 +6389,7 @@
         "logo": "India_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6402,7 +6402,7 @@
         "logo": "Aap_Ki_Adalat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Aap_Ki_Adalat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6415,7 +6415,7 @@
         "logo": "Speed_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Speed_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6428,7 +6428,7 @@
         "logo": "IndiaTV_Yoga.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IndiaTV_Yoga_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6441,7 +6441,7 @@
         "logo": "India_Voice.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/India_Voice_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6454,7 +6454,7 @@
         "logo": "Indian_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Indian_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6467,7 +6467,7 @@
         "logo": "INH_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/INH_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6480,7 +6480,7 @@
         "logo": "Insync.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Insync_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6493,10 +6493,10 @@
         "logo": "Intravel.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/INTRAVEL_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3452,
@@ -6504,10 +6504,10 @@
         "logo": "IDEnglish.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Investigation_Discovery_English_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3435,
@@ -6515,10 +6515,10 @@
         "logo": "IDHDEnglish.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Investigation_Discovery_HD_English_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3434,
@@ -6526,7 +6526,7 @@
         "logo": "IDHDHindi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IDHDHindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6539,7 +6539,7 @@
         "logo": "IDHindi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ID_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6552,10 +6552,10 @@
         "logo": "Inwild.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/INWILD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3014,
@@ -6563,7 +6563,7 @@
         "logo": "IPN_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IPN_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6576,7 +6576,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishvani_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ishvani_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6589,7 +6589,7 @@
         "logo": "Ishwar_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ishwar_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6602,7 +6602,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ishwar_Vani_Tv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ishwar_Vani_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6615,7 +6615,7 @@
         "logo": "ISKCON_Bangalore.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ISKCON_Bangalore_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6628,7 +6628,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Iskon_Girgaon_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6641,7 +6641,7 @@
         "logo": "J_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/J_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6654,7 +6654,7 @@
         "logo": "Jai_Maharashtra.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jai_Maharashtra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6667,7 +6667,7 @@
         "logo": "Jaihind_tv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jaihind_tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6680,7 +6680,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6693,7 +6693,7 @@
         "logo": "Jan_Setu_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jan_Setu_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6706,7 +6706,7 @@
         "logo": "Jan_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6719,7 +6719,7 @@
         "logo": "Janadesh_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janadesh_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6732,7 +6732,7 @@
         "logo": "Janam_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6745,7 +6745,7 @@
         "logo": "Janapriyam_News.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janapriyam_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6758,10 +6758,10 @@
         "logo": "janataanews.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janataa_TV_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2959,
@@ -6769,7 +6769,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Janta_Darbar_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janta_Darbar_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6782,7 +6782,7 @@
         "logo": "Janta_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janta_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6795,7 +6795,7 @@
         "logo": "Jantantra.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jantantra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6808,7 +6808,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jatra_Ekamra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6821,7 +6821,7 @@
         "logo": "Jay_Jagannath.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jay_Jagannath_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6834,7 +6834,7 @@
         "logo": "Jaya_Max.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jaya_Max_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6847,7 +6847,7 @@
         "logo": "Jaya_Plus.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jaya_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6860,7 +6860,7 @@
         "logo": "Jaya_TV_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jaya_TV_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6873,7 +6873,7 @@
         "logo": "Jeevan_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jeevan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6886,7 +6886,7 @@
         "logo": "Jeewan_Bhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jeewan_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6899,7 +6899,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jigyasa_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jigyasa_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6912,7 +6912,7 @@
         "logo": "Jinvani_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jinvani_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6925,7 +6925,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Cricket_English_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6938,7 +6938,7 @@
         "logo": "Jio_Events.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Events_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6951,7 +6951,7 @@
         "logo": "Jio_Exclusive.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Exclusive_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6964,7 +6964,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_KIDS_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6977,7 +6977,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Jio_Prime_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Prime_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -6990,7 +6990,7 @@
         "logo": "Jio_Specials_HD.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Specials_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7003,7 +7003,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Sports_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7016,7 +7016,7 @@
         "logo": "Jio_Esports_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jio_Esports_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7029,7 +7029,7 @@
         "logo": "JK_24x7_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/JK_24x7_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7042,7 +7042,7 @@
         "logo": "Jk_Samachar_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jk_Samachar_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7055,7 +7055,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/V24_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/V24_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7068,7 +7068,7 @@
         "logo": "Jonack.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jonack_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7081,7 +7081,7 @@
         "logo": "Jothi_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jothi_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7094,7 +7094,7 @@
         "logo": "JUS_HINDI.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/JUS24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7107,7 +7107,7 @@
         "logo": "JUSOne.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/JUSOne_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7120,7 +7120,7 @@
         "logo": "JUSPunjabi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/JUSPunjabi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7133,7 +7133,7 @@
         "logo": "Jyothishavartha.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jyothishavartha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7146,7 +7146,7 @@
         "logo": "K_News_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/K_News_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7159,10 +7159,10 @@
         "logo": "Kadak.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1249,
@@ -7170,7 +7170,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kadak_Hits.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kadak_Hits_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7183,7 +7183,7 @@
         "logo": "Kairali_People_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kairali_People_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7196,7 +7196,7 @@
         "logo": "Kairali_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kairali_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7209,7 +7209,7 @@
         "logo": "Kairali_WE_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kairali_WE_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7222,7 +7222,7 @@
         "logo": "Kalaignar_Seithigal_.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7235,7 +7235,7 @@
         "logo": "Kalaignar_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kalaignar_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7248,7 +7248,7 @@
         "logo": "Kalinga_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kalinga_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7261,7 +7261,7 @@
         "logo": "Kalyan_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kalyan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7274,7 +7274,7 @@
         "logo": "Kanak_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kanak_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7287,7 +7287,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol_Kannada.png",
         "category": "Shopping",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naaptol_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7300,7 +7300,7 @@
         "logo": "Kannur_one.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kannur_one_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7313,7 +7313,7 @@
         "logo": "Kappa_TV.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kappa_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7326,7 +7326,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Karani_Mata_Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7339,10 +7339,10 @@
         "logo": "KarnatakaNewsBeat.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Karnataka_News_Beat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1186,
@@ -7350,7 +7350,7 @@
         "logo": "Kartavya_Tv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kartavya_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7363,7 +7363,7 @@
         "logo": "Kashish_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kashish_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7376,7 +7376,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Kathaamrut_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kathaamrut_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7389,7 +7389,7 @@
         "logo": "Kaumudy_TV.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kaumudy_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7402,10 +7402,10 @@
         "logo": "kbcnews.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/KBC_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2854,
@@ -7413,7 +7413,7 @@
         "logo": "KCM.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/KCM_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7426,7 +7426,7 @@
         "logo": "Khabar_24x7_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Khabar_24x7_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7439,7 +7439,7 @@
         "logo": "Khabar_70.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Khabar_70_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7452,7 +7452,7 @@
         "logo": "Khabar_Fast.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Khabar_Fast_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7465,7 +7465,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Khandoba_Majha_Jejuri.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Khandoba_Majha_Jejuri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7478,7 +7478,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Khusboo_TV.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Khusboo_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7491,7 +7491,7 @@
         "logo": "KITE_Victers.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/KITE_Victers_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7504,7 +7504,7 @@
         "logo": "KKD_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/KKD_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7517,7 +7517,7 @@
         "logo": "Kochu_TV.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kochu_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7530,10 +7530,10 @@
         "logo": "Kolkata_News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kolkata_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1264,
@@ -7541,7 +7541,7 @@
         "logo": "Kolkata_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kolkata_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7554,7 +7554,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/KPNews.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/KPNews_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7567,7 +7567,7 @@
         "logo": "Kripa_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kripa_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7580,10 +7580,10 @@
         "logo": "Krishi_Pitaara.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Krishi_Pitaara_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1440,
@@ -7591,7 +7591,7 @@
         "logo": "Krishna_Vani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Krishna_Vani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7604,7 +7604,7 @@
         "logo": "Tribe_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tribe_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7617,7 +7617,7 @@
         "logo": "KTV_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/KTV_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7630,7 +7630,7 @@
         "logo": "Kushi_TV.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Kushi_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7643,7 +7643,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Manipur_Educational_Channel.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manipur_Educational_Channel_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7656,7 +7656,7 @@
         "logo": "Lakshya_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lakshya_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7669,7 +7669,7 @@
         "logo": "Lancs_TV_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lancs_TV_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7682,7 +7682,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ekamra_S_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ekamra_S_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7695,7 +7695,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Lifology.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lifology_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7708,10 +7708,10 @@
         "logo": "Lionsgate_Play.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lionsgate_Play_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 951,
@@ -7719,7 +7719,7 @@
         "logo": "livesamacharbharat.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjab_Today_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7732,7 +7732,7 @@
         "logo": "Live_Times.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Live_Times_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7745,7 +7745,7 @@
         "logo": "Live_Today.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Live_Today_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7758,7 +7758,7 @@
         "logo": "Live_TV_Kerala.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Live_TV_Kerala_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7771,7 +7771,7 @@
         "logo": "Living_India_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Living_India_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7784,7 +7784,7 @@
         "logo": "Lok_manch_Marathi.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lok_manch_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7797,7 +7797,7 @@
         "logo": "Lokshahi_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lokshahi_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7810,7 +7810,7 @@
         "logo": "Lotus_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lotus_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7823,10 +7823,10 @@
         "logo": "Love_World.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/LOVEWORLD_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1730,
@@ -7834,7 +7834,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab1_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjab1_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7847,10 +7847,10 @@
         "logo": "Luxe_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/LUXE_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2434,
@@ -7858,7 +7858,7 @@
         "logo": "M_Nadu.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/M_Nadu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7871,7 +7871,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7884,7 +7884,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7897,7 +7897,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7910,7 +7910,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7923,7 +7923,7 @@
         "logo": "Madha_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Madha_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7936,7 +7936,7 @@
         "logo": "Madhimugam_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Madhimugam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7949,7 +7949,7 @@
         "logo": "Maha_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maha_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7962,7 +7962,7 @@
         "logo": "Mahaa_Bhakthi.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahaa_Bhakthi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7975,7 +7975,7 @@
         "logo": "Mahaa_Max.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahaa_Max_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -7988,7 +7988,7 @@
         "logo": "Mahaa_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahaa_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8001,7 +8001,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahalaxmi_Mumbai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8014,7 +8014,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Hanuman_Mahavir_Temple.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Hanuman_Mahavir_Temple_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8027,7 +8027,7 @@
         "logo": "Mahotsav_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahotsav_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8040,10 +8040,10 @@
         "logo": "mahuakhabar.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahua_Khabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3281,
@@ -8051,7 +8051,7 @@
         "logo": "Mahua_Play.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mahua_Play_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8064,7 +8064,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maiboli_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8077,7 +8077,7 @@
         "logo": "Makkal_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Makkal_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8090,7 +8090,7 @@
         "logo": "Malai_Murasu.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Malai_Murasu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8103,7 +8103,7 @@
         "logo": "Malnadu_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Malnadu_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8116,7 +8116,7 @@
         "logo": "Malyalam_Naaptol.png",
         "category": "Shopping",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Malyalam_Naaptol_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8129,10 +8129,10 @@
         "logo": "Manage_Stress.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manage_Stress_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1607,
@@ -8140,7 +8140,7 @@
         "logo": "Manav_Dharam.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manav_Dharam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8153,7 +8153,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/GovindDevji_Jaipur.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/GovindDevji_Jaipur_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8166,7 +8166,7 @@
         "logo": "Mangalmaylive.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mangalmaylive_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8179,7 +8179,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manjari_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8192,7 +8192,7 @@
         "logo": "Manorama_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manorama_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8205,7 +8205,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Manoranjan_Grand.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manoranjan_Grand_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8218,7 +8218,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Manoranjan_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manoranjan_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8231,7 +8231,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Manoranjan_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Manoranjan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8244,7 +8244,7 @@
         "logo": "Mantavya_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mantavya_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8257,7 +8257,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mastiii_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8270,7 +8270,7 @@
         "logo": "Mathrubhumi_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mathrubhumi_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8283,7 +8283,7 @@
         "logo": "Maya_Tv.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maya_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8296,7 +8296,7 @@
         "logo": "Mazhavil_Manorama.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mazhavil_Manorama_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8309,7 +8309,7 @@
         "logo": "Mazavali_Manorama_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mazavali_Manorama_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8322,7 +8322,7 @@
         "logo": "MBC.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MBC_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8335,7 +8335,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Medha_Secondary.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Medha_Secondary_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8348,7 +8348,7 @@
         "logo": "Media_One_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Media_One_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8361,7 +8361,7 @@
         "logo": "Media9.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Media9_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8374,10 +8374,10 @@
         "logo": "Mega9TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mega9TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2064,
@@ -8385,7 +8385,7 @@
         "logo": "Merchant_Records.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Merchant_Records_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8398,7 +8398,7 @@
         "logo": "Rujumargam_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rujumargam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8411,10 +8411,10 @@
         "logo": "Metro_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Metro_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 511,
@@ -8422,7 +8422,7 @@
         "logo": "Mh_One_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mh_One_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8435,7 +8435,7 @@
         "logo": "mh1_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/mh1_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8448,7 +8448,7 @@
         "logo": "MH1_DilSe.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MH1_DilSe_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8461,7 +8461,7 @@
         "logo": "mh1_Shraddha.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/mh1_Shraddha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8474,7 +8474,7 @@
         "logo": "MI_TV.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MI_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8487,10 +8487,10 @@
         "logo": "Mirror_Media.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mirror_Media_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 491,
@@ -8498,7 +8498,7 @@
         "logo": "Mirror_Now.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mirror_Now_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8511,7 +8511,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MK_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8524,7 +8524,7 @@
         "logo": "MK_Six.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MK_Six_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8537,7 +8537,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MK_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8550,7 +8550,7 @@
         "logo": "MK_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MK_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8563,10 +8563,10 @@
         "logo": "MNPLUS.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MN+_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3310,
@@ -8574,7 +8574,7 @@
         "logo": "MNS_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MNS_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8587,10 +8587,10 @@
         "logo": "Movies_Now2_HD.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MNX_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3298,
@@ -8598,10 +8598,10 @@
         "logo": "Mon_TV_Bangla.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mon_TV_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1518,
@@ -8609,7 +8609,7 @@
         "logo": "Moon_Tv.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Moon_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8622,10 +8622,10 @@
         "logo": "cmusic-cme004-dhaka.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Movie_Music_by_Stingray_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 151,
@@ -8633,10 +8633,10 @@
         "logo": "Movies_Now_HD.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Movies_Now_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1608,
@@ -8644,7 +8644,7 @@
         "logo": "MP_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MP_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8657,10 +8657,10 @@
         "logo": "MPToday.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MP_Today_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 248,
@@ -8668,7 +8668,7 @@
         "logo": "MTV.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8681,7 +8681,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MTV_Beats_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8694,7 +8694,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MTV_Beats_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8707,7 +8707,7 @@
         "logo": "MTV_HD_Plus.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/MTV_HD_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8720,7 +8720,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Mumbadevi_Mumbai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8733,7 +8733,7 @@
         "logo": "Munsif_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Munsif_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8746,10 +8746,10 @@
         "logo": "Muscle_Strength.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Muscle_Strength_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 250,
@@ -8757,7 +8757,7 @@
         "logo": "Music_India.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Music_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8770,7 +8770,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/My_Bharat_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/My_Bharat_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8783,7 +8783,7 @@
         "logo": "N5TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/N5TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8796,7 +8796,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Naaptol.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naaptol_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8809,7 +8809,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Naaptol_Barker.png",
         "category": "Shopping",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naaptol_Barker_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8822,7 +8822,7 @@
         "logo": "Nakshatra_Digital_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nakshatra_Digital_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8835,7 +8835,7 @@
         "logo": "Nambikkai.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nambikkai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8848,7 +8848,7 @@
         "logo": "Namma_Bangalore.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Namma_Bangalore_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8861,7 +8861,7 @@
         "logo": "Nandighosha.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nandighosha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8874,7 +8874,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Narayana_Health.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Narayana_Health_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8887,7 +8887,7 @@
         "logo": "Narikaa.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Narikaa_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8900,7 +8900,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8913,7 +8913,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nat_Geo_Wild_HD.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nat_Geo_Wild_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8926,7 +8926,7 @@
         "logo": "Nation_Khabar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nation_Khabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8939,7 +8939,7 @@
         "logo": "Nation_NE.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nation_NE_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8952,10 +8952,10 @@
         "logo": "nationnews.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nation_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3265,
@@ -8963,7 +8963,7 @@
         "logo": "Nation_Star_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nation_Star_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8976,7 +8976,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -8989,7 +8989,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/National_Geographic_HD.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Geographic_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9002,7 +9002,7 @@
         "logo": "National_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9015,7 +9015,7 @@
         "logo": "National_News_Sattaxpress.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_News_Sattaxpress_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9028,10 +9028,10 @@
         "logo": "NationalToday24x7.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Today_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3105,
@@ -9039,10 +9039,10 @@
         "logo": "National_Tv_India.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/National_Tv_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3144,
@@ -9050,7 +9050,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Navsarjan_Sanskruti_Guj.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Navsarjan_Sanskruti_Guj_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9063,7 +9063,7 @@
         "logo": "Nav_Sanskruti_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nav_Sanskruti_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9076,7 +9076,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Naxatra_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naxatra_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9089,7 +9089,7 @@
         "logo": "Naxatra_News_Hindi.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Naxatra_News_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9102,10 +9102,10 @@
         "logo": "Nazara.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nazara_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2042,
@@ -9113,7 +9113,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nazraana.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nazraana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9126,7 +9126,7 @@
         "logo": "NBC24_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NBC24_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9139,7 +9139,7 @@
         "logo": "NBS_Live_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NBS_Live_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9152,7 +9152,7 @@
         "logo": "ND24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ND24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9165,7 +9165,7 @@
         "logo": "NDTV_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9178,7 +9178,7 @@
         "logo": "NDTV_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9191,7 +9191,7 @@
         "logo": "NDTV_Marathi.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9204,7 +9204,7 @@
         "logo": "NDTV_Profit.png",
         "category": "Business News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NDTV_Profit_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9217,10 +9217,10 @@
         "logo": "NE_Bharat24.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NE_Bharat24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3217,
@@ -9228,7 +9228,7 @@
         "logo": "NE_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NE_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9241,7 +9241,7 @@
         "logo": "Nepal_one.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nepal_one_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9254,7 +9254,7 @@
         "logo": "Network_10.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Network_10_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9267,7 +9267,7 @@
         "logo": "News_1_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_1_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9280,7 +9280,7 @@
         "logo": "IBN_7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IBN_7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9293,7 +9293,7 @@
         "logo": "News_21.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_21_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9306,7 +9306,7 @@
         "logo": "News_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9319,10 +9319,10 @@
         "logo": "News24_Express.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_24_Express_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1817,
@@ -9330,7 +9330,7 @@
         "logo": "NEWS_24_MPCG.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NEWS_24_MPCG_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9343,7 +9343,7 @@
         "logo": "News_24_Tass.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_24_Tass_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9356,7 +9356,7 @@
         "logo": "News_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9369,7 +9369,7 @@
         "logo": "News_360.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_360_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9382,7 +9382,7 @@
         "logo": "News80.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News80_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9395,7 +9395,7 @@
         "logo": "News9.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News9_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9408,7 +9408,7 @@
         "logo": "NewsCapital_Gujarat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NewsCapital_Gujarat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9421,7 +9421,7 @@
         "logo": "News_First.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_First_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9434,7 +9434,7 @@
         "logo": "News_Flash.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Flash_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9447,7 +9447,7 @@
         "logo": "News_Hour.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Hour_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9460,7 +9460,7 @@
         "logo": "News_India_24_X_7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_India_24_X_7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9473,7 +9473,7 @@
         "logo": "NewsIndiaTV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rajpath_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9486,7 +9486,7 @@
         "logo": "News_J.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_J_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9499,7 +9499,7 @@
         "logo": "News_Malayalam.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9512,10 +9512,10 @@
         "logo": "newsmarathi.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Marathi_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 499,
@@ -9523,7 +9523,7 @@
         "logo": "News_Nation.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Nation_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9536,7 +9536,7 @@
         "logo": "News_Nation_81.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Nation_81_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9549,7 +9549,7 @@
         "logo": "News_Only.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Only_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9562,7 +9562,7 @@
         "logo": "NewsState_Bihar_JH.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NewsState_Bihar_JH_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9575,7 +9575,7 @@
         "logo": "News_State_MPCG.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_State_MPCG_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9588,7 +9588,7 @@
         "logo": "News_State_PB_HR_HM.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_State_PB_HR_HM_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9601,7 +9601,7 @@
         "logo": "News_State_UK_UP.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_State_UK_UP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9614,7 +9614,7 @@
         "logo": "News_Tamil_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Tamil_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9627,7 +9627,7 @@
         "logo": "News_Time_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Time_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9640,10 +9640,10 @@
         "logo": "News_TV_India.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_TV_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3103,
@@ -9651,7 +9651,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_UNI.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_UNI_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9664,7 +9664,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_World_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_World_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9677,7 +9677,7 @@
         "logo": "News_X.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_X_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9690,7 +9690,7 @@
         "logo": "News_X_World.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_X_World_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9703,7 +9703,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/News_X_World.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_X_World_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9716,7 +9716,7 @@
         "logo": "News11.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News11_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9729,7 +9729,7 @@
         "logo": "News11_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News11_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9742,7 +9742,7 @@
         "logo": "News18AssamNE.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_18_Assam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9755,7 +9755,7 @@
         "logo": "News18Bangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Bangla_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9768,7 +9768,7 @@
         "logo": "News18BiharJK.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_BIHAR_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9781,7 +9781,7 @@
         "logo": "News18Gujarati.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_News_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9794,7 +9794,7 @@
         "logo": "News18JKLH.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Urdu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9807,7 +9807,7 @@
         "logo": "News18Kannada.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_Kannada_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9820,7 +9820,7 @@
         "logo": "News18Kerala.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_18_Kerala_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9833,7 +9833,7 @@
         "logo": "News18Lokmat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/IBN_Lokmat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9846,7 +9846,7 @@
         "logo": "News18MPCG.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_MP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9859,7 +9859,7 @@
         "logo": "News18odia.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_News_Oriya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9872,7 +9872,7 @@
         "logo": "News18PunjabHaryana.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News18_Punjab_Haryana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9885,7 +9885,7 @@
         "logo": "News18Rajasthan.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News18Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9898,7 +9898,7 @@
         "logo": "News18TamilNadu.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_18_Tamilnadu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9911,7 +9911,7 @@
         "logo": "News18UPUttarakhand.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ETV_UP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9924,7 +9924,7 @@
         "logo": "News7_Tamil.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News7_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9937,7 +9937,7 @@
         "logo": "News_Plus_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Plus_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9950,7 +9950,7 @@
         "logo": "Newslive.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Newslive_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9963,7 +9963,7 @@
         "logo": "Indradhanu.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Indradhanu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -9976,10 +9976,10 @@
         "logo": "Newz_Room_Gujarat.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Newz_Room_Gujarat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3336,
@@ -9987,10 +9987,10 @@
         "logo": "blyflx.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NH_BollyFlix_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3338,
@@ -9998,10 +9998,10 @@
         "logo": "blygld.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NH_BollyGold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3343,
@@ -10009,10 +10009,10 @@
         "logo": "blyrag.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NH_BollyRaga_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2762,
@@ -10020,7 +10020,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NH_Studioz.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NH_Studioz_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10033,7 +10033,7 @@
         "logo": "NHK_World_Japan.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NHK_World_Japan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10046,7 +10046,7 @@
         "logo": "Nick_Bangla.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10059,7 +10059,7 @@
         "logo": "Nick_HD_Plus.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_HD_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10072,7 +10072,7 @@
         "logo": "Nick_Hindi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10085,7 +10085,7 @@
         "logo": "Nick_Junior.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Junior_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10098,7 +10098,7 @@
         "logo": "Nick_Kannada.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10111,7 +10111,7 @@
         "logo": "Nick_Malayalam.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10124,7 +10124,7 @@
         "logo": "Nick_Marathi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10137,7 +10137,7 @@
         "logo": "Nick_Tamil.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10150,7 +10150,7 @@
         "logo": "Nick_Telugu.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10163,7 +10163,7 @@
         "logo": "Nickelodeon_Jr.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Jr_Hin_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10176,7 +10176,7 @@
         "logo": "nimbarktv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nimbark_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10189,7 +10189,7 @@
         "logo": "NKTV_Bangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NKTV_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10202,7 +10202,7 @@
         "logo": "NK_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NK_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10215,10 +10215,10 @@
         "logo": "NKTV_Live.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NKTV_Live_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1855,
@@ -10226,7 +10226,7 @@
         "logo": "NL_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NL_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10239,7 +10239,7 @@
         "logo": "No_Filter_Neha.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/No_Filter_Neha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10252,7 +10252,7 @@
         "logo": "North_East_Live.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/North_East_Live_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10265,10 +10265,10 @@
         "logo": "nsc9.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NSC9_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2034,
@@ -10276,7 +10276,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/NSDC_TV.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NSDC_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10289,10 +10289,10 @@
         "logo": "ntvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NTC_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 646,
@@ -10300,7 +10300,7 @@
         "logo": "NTV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10313,7 +10313,7 @@
         "logo": "Om_Shanti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Om_Shanti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10326,7 +10326,7 @@
         "logo": "OM_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/OM_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10339,7 +10339,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Omnicuris.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Omnicuris_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10352,7 +10352,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/One_Paschima.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/One_Paschima_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10365,7 +10365,7 @@
         "logo": "Only_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Only_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10378,7 +10378,7 @@
         "logo": "Osar_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Oscar_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10391,10 +10391,10 @@
         "logo": "OTV_Odisha_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/OTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2936,
@@ -10402,7 +10402,7 @@
         "logo": "Oye_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Oye_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10415,7 +10415,7 @@
         "logo": "P_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/P_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10428,10 +10428,10 @@
         "logo": "p18news.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/P18_News__BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1894,
@@ -10439,7 +10439,7 @@
         "logo": "https://jiotvimages.cdn.jio.com/dare_images/images/Padhega_Bharat.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Padhega_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10452,7 +10452,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Paramatma.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Paramatma_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10465,7 +10465,7 @@
         "logo": "Paras_tv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Paras_tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10478,7 +10478,7 @@
         "logo": "Pasand.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pasand_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10491,7 +10491,7 @@
         "logo": "Patnagar_News_Network.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Patnagar_Network_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10504,7 +10504,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PBN_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10517,7 +10517,7 @@
         "logo": "PEACE_MUSIC.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PEACE_MUSIC_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10530,7 +10530,7 @@
         "logo": "Peace_of_Mind.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Peace_of_Mind_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10543,10 +10543,10 @@
         "logo": "Penta_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Penta_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 796,
@@ -10554,7 +10554,7 @@
         "logo": "Peppers_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Peppers_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10567,7 +10567,7 @@
         "logo": "Pickleball_Now.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pickleball_Now_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10580,7 +10580,7 @@
         "logo": "Pitaara.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pitaara_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10593,7 +10593,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest1.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PlusTest1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10606,7 +10606,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PlusTest2_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PlusTest2_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10619,7 +10619,7 @@
         "logo": "evidya_1.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10632,7 +10632,7 @@
         "logo": "evidya_2.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10645,7 +10645,7 @@
         "logo": "evidya_3.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_3_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10658,7 +10658,7 @@
         "logo": "evidya_4.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_4_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10671,7 +10671,7 @@
         "logo": "evidya_5.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_5_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10684,7 +10684,7 @@
         "logo": "evidya_6.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_6_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10697,7 +10697,7 @@
         "logo": "evidya_7.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10710,7 +10710,7 @@
         "logo": "_evidya_8.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_8_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10723,7 +10723,7 @@
         "logo": "evidya_9.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_9_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10736,7 +10736,7 @@
         "logo": "evidya_10.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_10_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10749,7 +10749,7 @@
         "logo": "evidya_11.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_11_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10762,7 +10762,7 @@
         "logo": "evidya_12.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/evidya_12_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10775,7 +10775,7 @@
         "logo": "PMC_Hindi.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PMC_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10788,7 +10788,7 @@
         "logo": "PMC_Telugu.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PMC_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10801,10 +10801,10 @@
         "logo": "p_pktflm.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pocket_Films_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 559,
@@ -10812,7 +10812,7 @@
         "logo": "Pogo_Hindi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10825,10 +10825,10 @@
         "logo": "Pogo_Kan.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3033,
@@ -10836,10 +10836,10 @@
         "logo": "Pogo_Mal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3034,
@@ -10847,10 +10847,10 @@
         "logo": "Pogo_Mar.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 542,
@@ -10858,7 +10858,7 @@
         "logo": "Pogo_Tamil.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Tam_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10871,7 +10871,7 @@
         "logo": "Pogo_Telugu.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pogo_Tel_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10884,7 +10884,7 @@
         "logo": "Polimer_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Polimer_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10897,7 +10897,7 @@
         "logo": "Polimer_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Polimer_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10910,7 +10910,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pop_Pataka.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pop_Pataka_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10923,10 +10923,10 @@
         "logo": "Popli_Live.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Popli_Live_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2734,
@@ -10934,7 +10934,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Popular_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Popular_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10947,7 +10947,7 @@
         "logo": "Power_Kids_TV.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Power_Kids_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10960,7 +10960,7 @@
         "logo": "Power_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Power_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10973,7 +10973,7 @@
         "logo": "Powervision_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Powervision_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10986,7 +10986,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PR_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PR_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -10999,7 +10999,7 @@
         "logo": "Prabhu_Sandesh.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prabhu_Sandesh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11012,7 +11012,7 @@
         "logo": "Prabhu_Vani_Tv.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prabhu_Vani_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11025,10 +11025,10 @@
         "logo": "Pradesh24_Gujarati.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pradesh24_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 624,
@@ -11036,7 +11036,7 @@
         "logo": "Prag_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prag_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11049,7 +11049,7 @@
         "logo": "Prajatantra_TV_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prajatantra_TV_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11062,7 +11062,7 @@
         "logo": "Prameya_News_7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prameya_News_7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11075,7 +11075,7 @@
         "logo": "Prarthana_Bhawan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prarthana_Bhawan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11088,10 +11088,10 @@
         "logo": "Prarthana_Life.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prarthana_Life_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1856,
@@ -11099,7 +11099,7 @@
         "logo": "PrathamKhabar24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/News_Time_Assam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11112,7 +11112,7 @@
         "logo": "Prati_Shirdi_Saibaba.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prati_Shirdi_Saibaba_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11125,7 +11125,7 @@
         "logo": "Pratidin_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pratidin_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11138,7 +11138,7 @@
         "logo": "Prime_9_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_9_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11151,7 +11151,7 @@
         "logo": "Prime_Asia_HD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_Asia_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11164,7 +11164,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_Asia_Tv.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_Asia_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11177,7 +11177,7 @@
         "logo": "Prime_Bharat_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_Bharat_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11190,7 +11190,7 @@
         "logo": "Prime_Media.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_Media_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11203,7 +11203,7 @@
         "logo": "Prime_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11216,7 +11216,7 @@
         "logo": "Prime_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Prime_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11229,7 +11229,7 @@
         "logo": "Propex_TV.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Propex_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11242,7 +11242,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PrudentHD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PrudentHD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11255,7 +11255,7 @@
         "logo": "PTC_Chak_De.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_Chak_De_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11268,7 +11268,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_DHOL_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11281,7 +11281,7 @@
         "logo": "PTC_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11294,7 +11294,7 @@
         "logo": "PTC_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11307,7 +11307,7 @@
         "logo": "PTC_Punjabi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_Punjabi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11320,7 +11320,7 @@
         "logo": "PTC_Punjabi_Gold.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_Punjabi_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11333,7 +11333,7 @@
         "logo": "PTC_Simran.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTC_Simran_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11346,7 +11346,7 @@
         "logo": "VR_360.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VR_360_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11359,7 +11359,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/PTD_Chhattisgarrh.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/PTD_Chhattisgarrh_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11372,7 +11372,7 @@
         "logo": "Public_Asia.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Public_Asia_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11385,7 +11385,7 @@
         "logo": "Public_First.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Public_First_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11398,7 +11398,7 @@
         "logo": "Public_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Public_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11411,7 +11411,7 @@
         "logo": "Public_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Public_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11424,7 +11424,7 @@
         "logo": "Public_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Public_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11437,7 +11437,7 @@
         "logo": "Pudhari_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pudhari_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11450,7 +11450,7 @@
         "logo": "Pulse_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Pulse_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11463,7 +11463,7 @@
         "logo": "Punjab_Plus.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjab_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11476,7 +11476,7 @@
         "logo": "Punjab_School_TV.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjab_School_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11489,7 +11489,7 @@
         "logo": "Punjabi_Hits.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjabi_Hits_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11502,7 +11502,7 @@
         "logo": "Punjabi_Melodies.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjabi_Melodies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11515,10 +11515,10 @@
         "logo": "PunjabiShorts.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Punjabi_Shorts_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1740,
@@ -11526,7 +11526,7 @@
         "logo": "Purnima_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Purnima_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11539,7 +11539,7 @@
         "logo": "Puthiya_Thalimurai.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Puthiya_Thalimurai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11552,7 +11552,7 @@
         "logo": "Puthu_Yugam.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Puthu_Yugam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11565,7 +11565,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Q_GameX.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Q_GameX_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11578,7 +11578,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/qtoonz.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/qtoonz_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11591,10 +11591,10 @@
         "logo": "qello-qello001-dhaka.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Qello_Concerts_by_Stingray_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2780,
@@ -11602,7 +11602,7 @@
         "logo": "R_Bangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/R_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11615,10 +11615,10 @@
         "logo": "Rhindustan_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/R_Hindustan_Tv_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 950,
@@ -11626,7 +11626,7 @@
         "logo": "RPLUS.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RPLUS_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11639,10 +11639,10 @@
         "logo": "R_TV_Bhakthi.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/R_TV_Bhakthi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 923,
@@ -11650,7 +11650,7 @@
         "logo": "R.Kannada.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/R_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11663,7 +11663,7 @@
         "logo": "raatdinbangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raatdin_News_Network_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11676,10 +11676,10 @@
         "logo": "raatdintripura.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raatdin_Tripura_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1537,
@@ -11687,7 +11687,7 @@
         "logo": "RadheKrishna_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RadheKrishna_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11700,7 +11700,7 @@
         "logo": "Raftaar_Media.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raftaar_Media_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11713,7 +11713,7 @@
         "logo": "RRN_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RRN_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11726,7 +11726,7 @@
         "logo": "Raj_Digital_Plus.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_Digital_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11739,7 +11739,7 @@
         "logo": "Raj_Music_Kannada.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_Music_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11752,7 +11752,7 @@
         "logo": "Raj_Music_Malayalam.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_Music_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11765,7 +11765,7 @@
         "logo": "Raj_Music_Telugu.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_Music_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11778,7 +11778,7 @@
         "logo": "Raj_Musix.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_Musix_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11791,7 +11791,7 @@
         "logo": "Raj_News_Kannada.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_News_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11804,7 +11804,7 @@
         "logo": "Raj_News_Malayalam.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_News_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11817,7 +11817,7 @@
         "logo": "Raj_News_Telugu.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_News_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11830,7 +11830,7 @@
         "logo": "Raj_News_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_News_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11843,7 +11843,7 @@
         "logo": "Raj_Pariwar.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_Pariwar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11856,7 +11856,7 @@
         "logo": "Raj_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Raj_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11869,10 +11869,10 @@
         "logo": "Rajya_24_News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rajya_24_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1220,
@@ -11880,7 +11880,7 @@
         "logo": "Rajyoga_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rajyoga_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11893,7 +11893,7 @@
         "logo": "Rajyoga_Malayalam.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rajyoga_Malayalam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11906,7 +11906,7 @@
         "logo": "Ramdhenu.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ramdhenu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11919,7 +11919,7 @@
         "logo": "Rang.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rang_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11932,7 +11932,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rangamanch_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11945,7 +11945,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/RC_Studio.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RC_Studio_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11958,7 +11958,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/rdcmovies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/rdcmovies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11971,7 +11971,7 @@
         "logo": "RDX_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RDX_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11984,7 +11984,7 @@
         "logo": "Real_News_Kerala.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Real_News_Kerala_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -11997,7 +11997,7 @@
         "logo": "Red_Bull_TV.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Red_Bull_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12010,7 +12010,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rengoni_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12023,7 +12023,7 @@
         "logo": "Reporter_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Reporter_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12036,7 +12036,7 @@
         "logo": "Republic_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Republic_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12049,7 +12049,7 @@
         "logo": "Republic_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Republic_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12062,10 +12062,10 @@
         "logo": "Restful_Sleep.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Restful_Sleep_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3356,
@@ -12073,10 +12073,10 @@
         "logo": "suriyantvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rock_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3417,
@@ -12084,10 +12084,10 @@
         "logo": "rojamovies.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Roja_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3409,
@@ -12095,10 +12095,10 @@
         "logo": "rojatv.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Roja_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1401,
@@ -12106,10 +12106,10 @@
         "logo": "Romedy_Now_HD.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Romedy_Now_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1667,
@@ -12117,7 +12117,7 @@
         "logo": "Rongeen_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rongeen_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12130,7 +12130,7 @@
         "logo": "Rozana_Spokesman.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rozana_Spokesman_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12143,7 +12143,7 @@
         "logo": "RS_Bharat.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RS_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12156,7 +12156,7 @@
         "logo": "RT_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/RT_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12169,7 +12169,7 @@
         "logo": "Rupashi_Bangla.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rupashi_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12182,7 +12182,7 @@
         "logo": "Bharat_Times.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Bharat_Times_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12195,7 +12195,7 @@
         "logo": "Saam_Tv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Saam_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12208,7 +12208,7 @@
         "logo": "Sacchi_Report.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sacchi_Report_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12221,7 +12221,7 @@
         "logo": "Sach_Bedhadak.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sach_Bedhadak_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12234,10 +12234,10 @@
         "logo": "Sadhguru_Television_HD_Dolby.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhguru_Television_Dolby_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1201,
@@ -12245,7 +12245,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhguru_Television_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12258,7 +12258,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television_SD.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhguru_Television_SD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12271,7 +12271,7 @@
         "logo": "Sadhna.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhna_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12284,7 +12284,7 @@
         "logo": "Sadhna_Gold.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhna_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12297,7 +12297,7 @@
         "logo": "Sadhna_News_MP_CG.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhna_News_MP_CG_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12310,7 +12310,7 @@
         "logo": "Sadhna_News_Plus.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadhna_News_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12323,7 +12323,7 @@
         "logo": "Sadvidya_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sadvidya_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12336,7 +12336,7 @@
         "logo": "Safari_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Safari_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12349,7 +12349,7 @@
         "logo": "Saga_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Saga_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12362,7 +12362,7 @@
         "logo": "Saga_Music_Haryanvi.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Saga_Music_Haryanvi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12375,7 +12375,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Bihar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sahara_Samay_Bihar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12388,7 +12388,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_MP.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SAHARA_SAMAY_MP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12401,7 +12401,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rajasthan.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sahara_Samay_Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12414,7 +12414,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahara_Samay_Rastriya.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sahara_Samay_Rastriya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12427,7 +12427,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SAHARA_SAMAY_UP.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SAHARA_SAMAY_UP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12440,7 +12440,7 @@
         "logo": "Sai_Leela.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sai_Leela_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12453,7 +12453,7 @@
         "logo": "SaiTV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SaiTV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12466,7 +12466,7 @@
         "logo": "Sai_TV_Telugu.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sai_TV_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12479,7 +12479,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakkat.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sakkat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12492,7 +12492,7 @@
         "logo": "Sakshi_tv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sakshi_tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12505,7 +12505,7 @@
         "logo": "Salaam_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Salaam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12518,7 +12518,7 @@
         "logo": "Samachar_24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samachar_24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12531,7 +12531,7 @@
         "logo": "Samachar_Nation.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samachar_Nation_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12544,7 +12544,7 @@
         "logo": "Samachar_Plus.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samachar_Plus_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12557,7 +12557,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Plus_Jh_Bihar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samachar_Plus_Jh_Bihar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12570,7 +12570,7 @@
         "logo": "Samachar_Today.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samachar_Today_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12583,7 +12583,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samara_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12596,7 +12596,7 @@
         "logo": "Samay_Kolkata.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samay_Kolkata_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12609,7 +12609,7 @@
         "logo": "Samrat_News_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Samrat_News_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12622,10 +12622,10 @@
         "logo": "sanaplus.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sana_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3201,
@@ -12633,10 +12633,10 @@
         "logo": "sanatv.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sana_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3244,
@@ -12644,7 +12644,7 @@
         "logo": "Sanatan_Bharat.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanatan_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12657,7 +12657,7 @@
         "logo": "Sanatan_Sandesh.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanatan_Sandesh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12670,7 +12670,7 @@
         "logo": "sanatan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanatan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12683,10 +12683,10 @@
         "logo": "Sanatan_Vedic_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanatan_Vedic_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 782,
@@ -12694,7 +12694,7 @@
         "logo": "Sandesh_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sandesh_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12707,7 +12707,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sangat_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12720,7 +12720,7 @@
         "logo": "Sangeet_Bangla.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sangeet_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12733,7 +12733,7 @@
         "logo": "Sangeet_Bhojpuri.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sangeet_Bhojpuri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12746,7 +12746,7 @@
         "logo": "Sangeet_Marathi.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sangeet_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12759,7 +12759,7 @@
         "logo": "Sanjha_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanjha_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12772,7 +12772,7 @@
         "logo": "Loksabha_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Loksabha_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12785,7 +12785,7 @@
         "logo": "SansadTV1HD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SansadTV1HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12798,7 +12798,7 @@
         "logo": "DD_Rajyasabha.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/DD_Rajyasabha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12811,7 +12811,7 @@
         "logo": "Sansad_TV_RajyaSabha.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sansad_TV_RajyaSabha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12824,7 +12824,7 @@
         "logo": "Sanskar.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanskar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12837,7 +12837,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskritam.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanskritam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12850,7 +12850,7 @@
         "logo": "Sanskrit_Ganga_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanskrit_Ganga_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12863,7 +12863,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskriti_24x7.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sanskriti_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12876,7 +12876,7 @@
         "logo": "Santvani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Santvani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12889,7 +12889,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Hum_Bhojpuri.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Saregama_Hum_Bhojpuri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12902,7 +12902,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Saregama_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12915,7 +12915,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Telugu.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Saregama_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12928,7 +12928,7 @@
         "logo": "Sarv_Dharam_Sangam.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sarv_Dharam_Sangam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12941,7 +12941,7 @@
         "logo": "Sathiyam.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sathiyam_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12954,7 +12954,7 @@
         "logo": "Satsang_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Satsang_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12967,7 +12967,7 @@
         "logo": "SB_News_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SB_News_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12980,7 +12980,7 @@
         "logo": "Sony_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -12993,7 +12993,7 @@
         "logo": "Sony_SD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13006,7 +13006,7 @@
         "logo": "Shalom.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shalom_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13019,7 +13019,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shani_Shingnapur_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13032,10 +13032,10 @@
         "logo": "SharkTankIndia.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shark_Tank_India_S5_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1077,
@@ -13043,7 +13043,7 @@
         "logo": "Sharnam_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Lord_Buddha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13056,7 +13056,7 @@
         "logo": "Shekinah.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shekinah_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13069,10 +13069,10 @@
         "logo": "smrbol.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Bollywood_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3074,
@@ -13080,10 +13080,10 @@
         "logo": "smrfgn.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Filmy_Gaane_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1452,
@@ -13091,7 +13091,7 @@
         "logo": "Shemaroo_MarathiBana.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_MarathiBana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13104,7 +13104,7 @@
         "logo": "Shemaroo_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13117,7 +13117,7 @@
         "logo": "Shemaroo_Umang.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shemaroo_Umang_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13130,10 +13130,10 @@
         "logo": "Shesh_Khabar.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shesh_Khabar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1454,
@@ -13141,7 +13141,7 @@
         "logo": "shikshatvhd.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shiksha_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13154,7 +13154,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Moti_Doongri_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13167,7 +13167,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shree_Jagannath_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shree_Jagannath_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13180,10 +13180,10 @@
         "logo": "ShreeSanatan_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shree_Sanatan_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3052,
@@ -13191,7 +13191,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shresth_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shresth_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13204,7 +13204,7 @@
         "logo": "Shri_Amarnath_Shrine_Board.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shri_Amarnath_Shrine_Board_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13217,7 +13217,7 @@
         "logo": "Shri_Hingulambika_Devi_Temple.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shri_Hingulambika_Devi_Temple_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13230,7 +13230,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nakoda_Temple_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13243,7 +13243,7 @@
         "logo": "Shri_Mangal_Dev_Grah_Temple.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shri_Mangal_Dev_Grah_Temple_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13256,7 +13256,7 @@
         "logo": "Shri_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shri_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13269,7 +13269,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Omkareshwar_Temple_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13282,10 +13282,10 @@
         "logo": "Shri_Shyam_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shri_Shyam_TV__BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1933,
@@ -13293,7 +13293,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shri_Trimbakeshwar_Devasthan.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shri_Trimbakeshwar_Devasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13306,7 +13306,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Shrimad_Ramayan.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shrimad_Ramayan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13319,7 +13319,7 @@
         "logo": "Shubh_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shubh_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13332,7 +13332,7 @@
         "logo": "Shubhsandesh_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Shubhsandesh_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13345,7 +13345,7 @@
         "logo": "Sidharth_Bhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sidharth_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13358,7 +13358,7 @@
         "logo": "Sidharth_Gold.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sidharth_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13371,7 +13371,7 @@
         "logo": "Sidharth_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sidharth_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13384,7 +13384,7 @@
         "logo": "Sikh_Ratnavali.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sikh_Ratnavali_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13397,7 +13397,7 @@
         "logo": "Sirikannada.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sirikannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13410,7 +13410,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SKY_12.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SKY_12_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13423,7 +13423,7 @@
         "logo": "Sky_India_Tv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sky_India_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13436,7 +13436,7 @@
         "logo": "SMBC_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SMBC_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13449,7 +13449,7 @@
         "logo": "Smriti_Patra.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Smriti_Patra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13462,7 +13462,7 @@
         "logo": "Soham_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Soham_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13475,7 +13475,7 @@
         "logo": "SongDew_TV.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SongDew_TV_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13488,7 +13488,7 @@
         "logo": "Sonic_Bangla.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sonic_Bangla_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13501,7 +13501,7 @@
         "logo": "sonic_Hindi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/sonic_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13514,7 +13514,7 @@
         "logo": "Sonic_Kannada.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sonic_Kannada_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13527,7 +13527,7 @@
         "logo": "Sonic_Malayalam.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sonic_Malayalam_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13540,7 +13540,7 @@
         "logo": "Sonic_Marathi.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sonic_Marathi_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13553,7 +13553,7 @@
         "logo": "sonic_Tamil.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/sonic_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13566,7 +13566,7 @@
         "logo": "Sonic_Telugu.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sonic_Telugu_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13579,7 +13579,7 @@
         "logo": "SonyAATH.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyAATH_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13592,7 +13592,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyBBCEarthHin.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyBBCEarthHin_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13605,7 +13605,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Rai_Vs_Rai.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Rai_Vs_Rai_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13618,7 +13618,7 @@
         "logo": "SonyLIV_Sports_1.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_1_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13631,7 +13631,7 @@
         "logo": "SonyLIV_Sports_2.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_2_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13644,7 +13644,7 @@
         "logo": "SonyLIV_Sports_3.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_3_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13657,7 +13657,7 @@
         "logo": "SonyLIV_Sports_4_Tamil.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13670,7 +13670,7 @@
         "logo": "SonyLIV_Sports_4_Telugu.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Telugu_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13683,7 +13683,7 @@
         "logo": "SonyLIV_Sports_5.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13696,7 +13696,7 @@
         "logo": "SonyMarathi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMarathi_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13709,7 +13709,7 @@
         "logo": "SonyMAX.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13722,7 +13722,7 @@
         "logo": "Sony_Max_SD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Max_SD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13735,7 +13735,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyMAX1.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX1_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13748,7 +13748,7 @@
         "logo": "SonyMAX2.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyMAX2_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13761,7 +13761,7 @@
         "logo": "SonyPAL.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPAL_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13774,7 +13774,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPIX.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyPIX_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13787,7 +13787,7 @@
         "logo": "Sony_SAB.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_SAB_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13800,7 +13800,7 @@
         "logo": "SonySAB.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonySAB_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13813,7 +13813,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13826,7 +13826,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13839,7 +13839,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten2_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13852,7 +13852,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten3_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13865,7 +13865,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_3_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13878,7 +13878,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Tamil.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_HD_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13891,7 +13891,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_HD_Telugu.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_HD_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13904,7 +13904,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Tamil.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13917,7 +13917,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_4_Telugu.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13930,7 +13930,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sony_Six_SD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13943,7 +13943,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Six_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13956,7 +13956,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_5_HD_Ben.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_5_HD_Ben_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13969,7 +13969,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_5_HD_Mal.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_5_HD_Mal_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13982,7 +13982,7 @@
         "logo": "SonyWAH.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyWAH_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -13995,7 +13995,7 @@
         "logo": "SonyYAYHin.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYHin_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14008,7 +14008,7 @@
         "logo": "SonyYAYTam.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYTam_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14021,7 +14021,7 @@
         "logo": "SonyYAYTel.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SonyYAYTel_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14034,7 +14034,7 @@
         "logo": "Soochna_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Soochna_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14047,7 +14047,7 @@
         "logo": "Spondon.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Spondon_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14060,7 +14060,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Udupi_Krishna_Temple_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14073,7 +14073,7 @@
         "logo": "Sri_Naga_Sai_Mandir.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sri_Naga_Sai_Mandir_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14086,7 +14086,7 @@
         "logo": "Sri_Sankara.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sri_Sankara_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14099,7 +14099,7 @@
         "logo": "Sri_Venkateshwar_Bhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sri_Venkateshwar_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14112,7 +14112,7 @@
         "logo": "Sristi_TV.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sristi_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14125,7 +14125,7 @@
         "logo": "SRS_Bhakti_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SRS_Bhakti_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14138,7 +14138,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14151,7 +14151,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Bharat_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14164,7 +14164,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14177,7 +14177,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14190,7 +14190,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_2_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_2_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14203,7 +14203,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14216,7 +14216,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Romance.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Romance_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14229,7 +14229,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14242,7 +14242,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Select_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14255,7 +14255,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Thrills.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Gold_Thrills_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14268,7 +14268,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14281,7 +14281,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Jalsha_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14294,7 +14294,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsha_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14307,7 +14307,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsha_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Jalsa_Movies_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14320,7 +14320,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Kiran.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Kiran_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14333,7 +14333,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Maa_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14346,7 +14346,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",
         "category": "Telugu",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Gold_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14359,7 +14359,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",
         "category": "Telugu",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14372,7 +14372,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14385,7 +14385,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14398,7 +14398,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14411,7 +14411,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14424,7 +14424,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14437,7 +14437,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14450,7 +14450,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14463,7 +14463,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14476,7 +14476,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Plus_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14489,7 +14489,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14502,7 +14502,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14515,7 +14515,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14528,7 +14528,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah_Picture_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Pravah_Picture_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14541,7 +14541,7 @@
         "logo": "https://img.media.jio.com/tvpimages/56/92/302115_1749665579801_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14554,7 +14554,7 @@
         "logo": "https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14567,7 +14567,7 @@
         "logo": "https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14580,7 +14580,7 @@
         "logo": "https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14593,7 +14593,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Kannada.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14606,7 +14606,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14619,7 +14619,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Tamil_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14632,7 +14632,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14645,7 +14645,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14658,7 +14658,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14671,7 +14671,7 @@
         "logo": "https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14684,7 +14684,7 @@
         "logo": "Sports18_1_SD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_SD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14697,7 +14697,7 @@
         "logo": "Sports18_1_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_1_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14710,7 +14710,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_2_Kannada.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_2_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14723,7 +14723,7 @@
         "logo": "StarSports2Tamil.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14736,7 +14736,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Tamil_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Tamil_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14749,7 +14749,7 @@
         "logo": "StarSports2Telugu.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14762,7 +14762,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14775,7 +14775,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_3.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_3_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14788,7 +14788,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14801,7 +14801,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14814,7 +14814,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14827,7 +14827,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Hindi.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14840,7 +14840,7 @@
         "logo": "Sports18_Khel.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_Khel_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14853,7 +14853,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_1.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14866,7 +14866,7 @@
         "logo": "https://img.media.jio.com/tvpimages/96/65/302113_1749664252703_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14879,7 +14879,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_2.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14892,7 +14892,7 @@
         "logo": "https://img.media.jio.com/tvpimages/98/79/302114_1749665414817_l_medium.jpg",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14905,7 +14905,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14918,7 +14918,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_Select_HD_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14931,7 +14931,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14944,7 +14944,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14957,7 +14957,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_Plus.png",
         "category": "Kannada",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14970,7 +14970,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14983,7 +14983,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Utsav_Movies_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -14996,7 +14996,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15009,7 +15009,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Vijay_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15022,7 +15022,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/StarTell_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15035,7 +15035,7 @@
         "logo": "Steelbird_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Steelbird_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15048,10 +15048,10 @@
         "logo": "ose-232ads-montreal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_2000s_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3478,
@@ -15059,10 +15059,10 @@
         "logo": "ose-101ads-montreal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Classic_Rock_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3481,
@@ -15070,10 +15070,10 @@
         "logo": "cozycafe-400ads_cafe001-tokyo.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Cozy_Cafe_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3290,
@@ -15081,10 +15081,10 @@
         "logo": "djazz-djaads-dhaka.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Djazz_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3325,
@@ -15092,10 +15092,10 @@
         "logo": "ose-137ads-montreal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Easy_Listening_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3479,
@@ -15103,10 +15103,10 @@
         "logo": "ose-155ads-montreal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Greatest_Hits_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3285,
@@ -15114,10 +15114,10 @@
         "logo": "naturescape-a003s-dhaka.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Naturescape_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3323,
@@ -15125,10 +15125,10 @@
         "logo": "ose-122ads-montreal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_The_Spa_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3324,
@@ -15136,10 +15136,10 @@
         "logo": "ose-317ads-montreal.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Stingray_Todays_K-Pop_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1274,
@@ -15147,7 +15147,7 @@
         "logo": "Studio_One.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Studio_One_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15160,7 +15160,7 @@
         "logo": "Studio_Yuva_Alpha.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Studio_Yuva_Alpha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15173,10 +15173,10 @@
         "logo": "sailendar.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/STV_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1854,
@@ -15184,7 +15184,7 @@
         "logo": "STV_Haryana_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/STV_Haryana_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15197,7 +15197,7 @@
         "logo": "STV24_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/STV24_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15210,7 +15210,7 @@
         "logo": "Subharti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Subharti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15223,7 +15223,7 @@
         "logo": "Subhavartha_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Subhavartha_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15236,10 +15236,10 @@
         "logo": "subintvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Subin_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 518,
@@ -15247,7 +15247,7 @@
         "logo": "Sudarshan.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sudarshan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15260,7 +15260,7 @@
         "logo": "Sun_Bangla.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Bangla_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15273,7 +15273,7 @@
         "logo": "Sun_Life.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Life_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15286,7 +15286,7 @@
         "logo": "Sun_Marathi.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Marathi_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15299,7 +15299,7 @@
         "logo": "Sun_Music_HD.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_Music_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15312,7 +15312,7 @@
         "logo": "SUN_Neo.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SUN_Neo_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15325,7 +15325,7 @@
         "logo": "Sun_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15338,7 +15338,7 @@
         "logo": "Sun_TV_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15351,7 +15351,7 @@
         "logo": "Sundrani_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sundrani_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15364,7 +15364,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Super_Hungama.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Super_Hungama_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15377,10 +15377,10 @@
         "logo": "p_supjio.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Superfine_Films_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3394,
@@ -15388,10 +15388,10 @@
         "logo": "suryatvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suriya_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1662,
@@ -15399,7 +15399,7 @@
         "logo": "Surya_Comedy.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Comedy_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15412,7 +15412,7 @@
         "logo": "Surya_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15425,7 +15425,7 @@
         "logo": "Surya_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Movies_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15438,7 +15438,7 @@
         "logo": "Surya_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Music_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15451,7 +15451,7 @@
         "logo": "Surya_Samachar.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Surya_Samachar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15464,7 +15464,7 @@
         "logo": "Suvarna_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Suvarna_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15477,7 +15477,7 @@
         "logo": "SVBC.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SVBC_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15490,7 +15490,7 @@
         "logo": "SVBC2.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SVBC2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15503,7 +15503,7 @@
         "logo": "SVBC3.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SVBC3_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15516,7 +15516,7 @@
         "logo": "SVBC4.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/SVBC4_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15529,7 +15529,7 @@
         "logo": "Swadesh_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swadesh_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15542,7 +15542,7 @@
         "logo": "Swarlasika.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swarlasika_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15555,10 +15555,10 @@
         "logo": "Swastik_Stories.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swastik_Stories_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3459,
@@ -15566,10 +15566,10 @@
         "logo": "swastiktv.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swastik_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2187,
@@ -15577,7 +15577,7 @@
         "logo": "Swatantra_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swatantra_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15590,7 +15590,7 @@
         "logo": "Swayam_Prabha_01.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_01_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15603,7 +15603,7 @@
         "logo": "Swayam_Prabha_02.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_02_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15616,7 +15616,7 @@
         "logo": "Swayam_Prabha_03.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_03_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15629,7 +15629,7 @@
         "logo": "Swayam_Prabha_04.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_04_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15642,7 +15642,7 @@
         "logo": "Swayam_Prabha_05.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_05_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15655,7 +15655,7 @@
         "logo": "Swayam_Prabha_06.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_06_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15668,7 +15668,7 @@
         "logo": "Swayam_Prabha_07.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_07_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15681,7 +15681,7 @@
         "logo": "Swayam_Prabha_08.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_08_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15694,7 +15694,7 @@
         "logo": "Swayam_Prabha_09.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_09_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15707,7 +15707,7 @@
         "logo": "Swayam_Prabha_10.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_10_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15720,7 +15720,7 @@
         "logo": "Swayam_Prabha_11.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_11_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15733,7 +15733,7 @@
         "logo": "Swayam_Prabha_12.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_12_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15746,7 +15746,7 @@
         "logo": "Swayam_Prabha_13.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_13_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15759,7 +15759,7 @@
         "logo": "Swayam_Prabha_14.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_14_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15772,7 +15772,7 @@
         "logo": "Swayam_Prabha_15.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_15_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15785,7 +15785,7 @@
         "logo": "Swayam_Prabha_16.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_16_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15798,7 +15798,7 @@
         "logo": "Swayam_Prabha_17.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_17_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15811,7 +15811,7 @@
         "logo": "Swayam_Prabha_18.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_18_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15824,7 +15824,7 @@
         "logo": "Swayam_Prabha_19.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_19_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15837,7 +15837,7 @@
         "logo": "Swayam_Prabha_20.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_20_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15850,7 +15850,7 @@
         "logo": "Swayam_Prabha_21.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_21_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15863,7 +15863,7 @@
         "logo": "Swayam_Prabha_22.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swayam_Prabha_22_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15876,7 +15876,7 @@
         "logo": "T_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/T_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15889,10 +15889,10 @@
         "logo": "tsatnipuna.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/T_SAT_Nipuna_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3304,
@@ -15900,10 +15900,10 @@
         "logo": "tsatvidya.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/T_SAT_Vidya_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3194,
@@ -15911,7 +15911,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/T_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/T_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15924,7 +15924,7 @@
         "logo": "Taaza_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Taaza_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15937,7 +15937,7 @@
         "logo": "Tabbar_Hits.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tabbar_Hits_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15950,7 +15950,7 @@
         "logo": "Taiwan_Plus.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Taiwan_Plus_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15963,7 +15963,7 @@
         "logo": "Janam_Tamil.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Janam_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15976,7 +15976,7 @@
         "logo": "Tamil_Naaptol.png",
         "category": "Shopping",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tamil_Naaptol_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -15989,7 +15989,7 @@
         "logo": "Tamilan_Television.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tamilan_Television_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16002,7 +16002,7 @@
         "logo": "Tar_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tar_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16015,7 +16015,7 @@
         "logo": "Tara_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tara_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16028,10 +16028,10 @@
         "logo": "Tarang_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tarang_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 751,
@@ -16039,10 +16039,10 @@
         "logo": "Tarang_Music.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tarang_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1252,
@@ -16050,10 +16050,10 @@
         "logo": "TEHZEEB_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tehzeeb_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3176,
@@ -16061,7 +16061,7 @@
         "logo": "Telugu_Naaptol.png",
         "category": "Shopping",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Telugu_Naaptol_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16074,7 +16074,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_2_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16087,10 +16087,10 @@
         "logo": "Ten_News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ten_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 978,
@@ -16098,7 +16098,7 @@
         "logo": "TEST1_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST1_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16111,7 +16111,7 @@
         "logo": "TEST10_HD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST10_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16124,10 +16124,10 @@
         "logo": "TEST11_HD.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST11_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1476,
@@ -16135,7 +16135,7 @@
         "logo": "TEST12_HD.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Nick_Hindi_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16148,7 +16148,7 @@
         "logo": "TEST13_HD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST13_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16161,7 +16161,7 @@
         "logo": "TEST14_HD.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST14_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16174,7 +16174,7 @@
         "logo": "TEST2_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST2_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16187,7 +16187,7 @@
         "logo": "Test03_HD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST3_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16200,7 +16200,7 @@
         "logo": "TEST5_HD.png",
         "category": "Sports",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST5_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16213,7 +16213,7 @@
         "logo": "TEST8_HD.png",
         "category": "Shopping",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST8_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16226,10 +16226,10 @@
         "logo": "TEST9_HD.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TEST9_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 795,
@@ -16237,7 +16237,7 @@
         "logo": "Wellness.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Wellness_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16250,7 +16250,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakhi_TV.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sakhi_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16263,7 +16263,7 @@
         "logo": "Thanti_One.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Thanti_One_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16276,7 +16276,7 @@
         "logo": "Thanthi_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Thanthi_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16289,7 +16289,7 @@
         "logo": "NTBD_Channel.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/NTBD_Channel_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16302,10 +16302,10 @@
         "logo": "TheHind24News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/The_Hind24_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1066,
@@ -16313,7 +16313,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TheQIndia_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16326,7 +16326,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/The_Q_Kahaniyan.png",
         "category": "Kids",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/The_Q_Kahaniyan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16339,10 +16339,10 @@
         "logo": "unmute.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/The_Unmute_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1432,
@@ -16350,7 +16350,7 @@
         "logo": "TIME8.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TIME8_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16363,7 +16363,7 @@
         "logo": "Times_NOW.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Times_NOW_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16376,7 +16376,7 @@
         "logo": "Times_Now_Navbharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Times_Now_Navbharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16389,7 +16389,7 @@
         "logo": "Times_Now_HD.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Times_Now_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16402,10 +16402,10 @@
         "logo": "TimesofMaharashtra.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Times_of_Maharashtra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 574,
@@ -16413,7 +16413,7 @@
         "logo": "TLCEnglish.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TLC_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16426,7 +16426,7 @@
         "logo": "TLCHDEnglish.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TLC_HD_World_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16439,7 +16439,7 @@
         "logo": "TLCHDHindi.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TLCHDHindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16452,7 +16452,7 @@
         "logo": "TLCHindi.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TLC_Hindi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16465,7 +16465,7 @@
         "logo": "TNI_Awaaz.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TNI_Awaaz_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16478,7 +16478,7 @@
         "logo": "TNI24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TNI24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16491,7 +16491,7 @@
         "logo": "tnpnews.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TNP_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16504,7 +16504,7 @@
         "logo": "Today_24_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Today_24_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16517,7 +16517,7 @@
         "logo": "Today_TV24_UPUK.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Today_TV24_UPUK_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16530,7 +16530,7 @@
         "logo": "Today_India_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Today_India_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16543,10 +16543,10 @@
         "logo": "npnhm84gz9.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TOI_Global_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1972,
@@ -16554,7 +16554,7 @@
         "logo": "Top_News_Marathi.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Top_News_Marathi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16567,7 +16567,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Top_Tutor.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Top_Tutor_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16580,7 +16580,7 @@
         "logo": "Total_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Total_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16593,7 +16593,7 @@
         "logo": "Total_Tv_Haryana.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Total_Tv_Haryana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16606,7 +16606,7 @@
         "logo": "Travel_XP_HD.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16619,7 +16619,7 @@
         "logo": "Travel_XP.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16632,7 +16632,7 @@
         "logo": "Travel_XP_Tamil.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Travel_XP_Tamil_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16645,7 +16645,7 @@
         "logo": "TTN24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TTN24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16658,7 +16658,7 @@
         "logo": "Tulja_Bhavani.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tulja_Bhavani_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16671,7 +16671,7 @@
         "logo": "Tunes_6.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tunes_6_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16684,7 +16684,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Tute.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tute_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16697,7 +16697,7 @@
         "logo": "TV_100.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV_100_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16710,7 +16710,7 @@
         "logo": "TV_5_Kannada.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV_5_Kannada_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16723,7 +16723,7 @@
         "logo": "TV_5_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV_5_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16736,7 +16736,7 @@
         "logo": "TV_Asia.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV_Asia_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16749,7 +16749,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV_Teacher_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16762,10 +16762,10 @@
         "logo": "TV13_Gujarati.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV13_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2225,
@@ -16773,7 +16773,7 @@
         "logo": "TV24.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV24_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16786,7 +16786,7 @@
         "logo": "TV27_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV27_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16799,7 +16799,7 @@
         "logo": "TV45.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV45_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16812,7 +16812,7 @@
         "logo": "TV_5_Monde.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV_5_Monde_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16825,7 +16825,7 @@
         "logo": "TV9_Bangla.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV9_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16838,7 +16838,7 @@
         "logo": "TV9_Bharatvarsh.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV9_Bharatvarsh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16851,7 +16851,7 @@
         "logo": "Tv_9_Gujarat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Tv_9_Gujarat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16864,7 +16864,7 @@
         "logo": "TV9_Karnataka.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV9_Karnataka_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16877,7 +16877,7 @@
         "logo": "TV9_Maharashtra.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV9_Maharashtra_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16890,7 +16890,7 @@
         "logo": "TV9_Telugu_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/TV9_Telugu_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16903,7 +16903,7 @@
         "logo": "TWENTY_FOUR_NEWS.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Twenty_Four_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16916,7 +16916,7 @@
         "logo": "U_Bangla.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/U_Bangla_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16929,7 +16929,7 @@
         "logo": "Udaya_Comedy.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_Comedy_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16942,7 +16942,7 @@
         "logo": "Udaya_HD.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_HD_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16955,7 +16955,7 @@
         "logo": "Udaya_Movies.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_Movies_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16968,7 +16968,7 @@
         "logo": "Udaya_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Udaya_Music_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -16981,10 +16981,10 @@
         "logo": "utvtamil.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Ultimate_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3022,
@@ -16992,7 +16992,7 @@
         "logo": "Unique_Tv.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Unique_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17005,7 +17005,7 @@
         "logo": "Update_India.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Update_India_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17018,7 +17018,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Higher.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Utkarsh_Higher_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17031,7 +17031,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Middle.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Utkarsh_Middle_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17044,7 +17044,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Primary.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Utkarsh_Primary_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17057,7 +17057,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Utkarsh_Secondary.png",
         "category": "Educational",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Utkarsh_Secondary_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17070,7 +17070,7 @@
         "logo": "V6_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/V6_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17083,7 +17083,7 @@
         "logo": "Vaanavil_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vaanavil_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17096,7 +17096,7 @@
         "logo": "VACC_24_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VACC_24_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17109,7 +17109,7 @@
         "logo": "Valambhakti.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Valam_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17122,7 +17122,7 @@
         "logo": "Vande_Bharat.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17135,7 +17135,7 @@
         "logo": "Vande_Gujarat_1.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_1_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17148,7 +17148,7 @@
         "logo": "Vande_Gujarat_10.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_10_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17161,7 +17161,7 @@
         "logo": "Vande_Gujarat_11.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_11_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17174,7 +17174,7 @@
         "logo": "Vande_Gujarat_12.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_12_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17187,7 +17187,7 @@
         "logo": "Vande_Gujarat_13.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_13_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17200,7 +17200,7 @@
         "logo": "Vande_Gujarat_14.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_14_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17213,7 +17213,7 @@
         "logo": "Vande_Gujarat_15.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_15_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17226,7 +17226,7 @@
         "logo": "Vande_Gujarat_16.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_16_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17239,7 +17239,7 @@
         "logo": "Vande_Gujarat_2.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_2_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17252,7 +17252,7 @@
         "logo": "Vande_Gujarat_3.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_3_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17265,7 +17265,7 @@
         "logo": "Vande_Gujarat_4.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_4_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17278,7 +17278,7 @@
         "logo": "Vande_Gujarat_5.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_5_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17291,7 +17291,7 @@
         "logo": "Vande_Gujarat_6.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_6_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17304,7 +17304,7 @@
         "logo": "Vande_Gujarat_7.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17317,7 +17317,7 @@
         "logo": "Vande_Gujarat_8.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_8_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17330,7 +17330,7 @@
         "logo": "Vande_Gujarat_9.png",
         "category": "Education",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vande_Gujarat_9_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17343,7 +17343,7 @@
         "logo": "Vanitha.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vanitha_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17356,7 +17356,7 @@
         "logo": "Vasanth_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vasanth_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17369,7 +17369,7 @@
         "logo": "swarshreejio.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Swar_Shree_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17382,7 +17382,7 @@
         "logo": "Vedic_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vedic_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17395,7 +17395,7 @@
         "logo": "Velicham_Tv.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Velicham_Tv_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17408,7 +17408,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Velukkudi_Discourses_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17421,7 +17421,7 @@
         "logo": "Vendhar_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vendhar_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17434,7 +17434,7 @@
         "logo": "Vertent_Samachar_Plus_24x7.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vertent_Samachar_Plus_24x7_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17447,7 +17447,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VH1_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17460,7 +17460,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1_HD.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VH1_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17473,7 +17473,7 @@
         "logo": "Vignesh_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vignesh_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17486,7 +17486,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17499,7 +17499,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Super_HD.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Super_HD_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17512,7 +17512,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vijay_Takkar.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vijay_Takkar_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17525,10 +17525,10 @@
         "logo": "VillageTV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Village_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 510,
@@ -17536,7 +17536,7 @@
         "logo": "VIP_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VIP_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17549,7 +17549,7 @@
         "logo": "Vissa_TV.png",
         "category": "Entertainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vissa_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17562,7 +17562,7 @@
         "logo": "Vistaar_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vistaar_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17575,7 +17575,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Vistara_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vistara_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17588,7 +17588,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/VISVAS.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VISVAS_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17601,7 +17601,7 @@
         "logo": "VNM_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VNM_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17614,7 +17614,7 @@
         "logo": "Voice_Urdu_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Voice_TV_Urdu_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17627,7 +17627,7 @@
         "logo": "VRLive.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VRLive_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17640,7 +17640,7 @@
         "logo": "VTV_Gujarati.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/VTV_Gujarati_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17653,10 +17653,10 @@
         "logo": "Vyasa_TV.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Vyasa_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1441,
@@ -17664,7 +17664,7 @@
         "logo": "Wah_Punjabi.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Wah_Punjabi_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17677,10 +17677,10 @@
         "logo": "Weight_Loss_Yoga.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Weight_Loss_Yoga_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1292,
@@ -17688,7 +17688,7 @@
         "logo": "Wellness_TV.png",
         "category": "Lifestyle",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Wellness_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17701,7 +17701,7 @@
         "logo": "Wild_Earth.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Wild_Earth_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17714,7 +17714,7 @@
         "logo": "Win_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Win_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17727,7 +17727,7 @@
         "logo": "Wion.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Wion_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17740,7 +17740,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png",
         "category": "Infotainment",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/World_Punjab_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17753,10 +17753,10 @@
         "logo": "World_Chess.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/World_Chess_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1366,
@@ -17764,7 +17764,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Wow_Cinema_One.png",
         "category": "Movies",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Wow_Cinema_One_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17777,7 +17777,7 @@
         "logo": "WPN_World_Punjabi_News.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/WPN_World_Punjabi_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17790,10 +17790,10 @@
         "logo": "Yahoo_Finance.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Yahoo_Finance_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 1788,
@@ -17801,7 +17801,7 @@
         "logo": "Yeshuaa.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Yeshuaa_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17814,10 +17814,10 @@
         "logo": "Yoga_for_Beginners.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Yoga_for_Beginners_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2753,
@@ -17825,7 +17825,7 @@
         "logo": "YRF_Music.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/YRF_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17838,7 +17838,7 @@
         "logo": "Harpal_TV.png",
         "category": "Devotional",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Harpal_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17851,10 +17851,10 @@
         "logo": "zbbhakti.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZB_Bhakti_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3321,
@@ -17862,10 +17862,10 @@
         "logo": "zbcatun.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZB_Cartoon_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3322,
@@ -17873,10 +17873,10 @@
         "logo": "ZBCINEMA.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZB_Cinema__BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3319,
@@ -17884,10 +17884,10 @@
         "logo": "zbmusic.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZB_Music_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 464,
@@ -17895,7 +17895,7 @@
         "logo": "24_Ghanta_TV.png",
         "category": "News",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/24_Ghanta_TV_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -17908,10 +17908,10 @@
         "logo": "Zee_24_Kalak.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_24_Kalak_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 442,
@@ -17919,10 +17919,10 @@
         "logo": "Zee_24_Taas.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_24_Taas_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 652,
@@ -17930,10 +17930,10 @@
         "logo": "Zee_SANGAM.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Bharat_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 661,
@@ -17941,10 +17941,10 @@
         "logo": "Zee_Purvaiya.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Bihar_Jharkhand_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 657,
@@ -17952,10 +17952,10 @@
         "logo": "Zee_Business.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Business_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 724,
@@ -17963,10 +17963,10 @@
         "logo": "Zee_Kalinga.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Delhi_NCR_Haryana_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 2742,
@@ -17974,10 +17974,10 @@
         "logo": "Zee_Kannada_News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Kannada_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 658,
@@ -17985,10 +17985,10 @@
         "logo": "Zee_News_MP_Chattisgarh.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_MP_Chattisgarh_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 504,
@@ -17996,10 +17996,10 @@
         "logo": "Zee_News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 654,
@@ -18007,10 +18007,10 @@
         "logo": "Zee_Punjabi_HP_Haryana.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Punjab_Haryana_HP_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 659,
@@ -18018,10 +18018,10 @@
         "logo": "Zee_Rajasthan.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Rajasthan_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3031,
@@ -18029,10 +18029,10 @@
         "logo": "Zee_Telugu_News.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_Telugu_News_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 572,
@@ -18040,10 +18040,10 @@
         "logo": "Living_Foodz.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zee_UP_UK_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3286,
@@ -18051,10 +18051,10 @@
         "logo": "zenlife-zen001-seoul.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/ZenLIFE_by_Stingray_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 3317,
@@ -18062,10 +18062,10 @@
         "logo": "zillarbarta.png",
         "category": "General",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zillar_Barta_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
-        "drm": {}
+        "drm": null
     },
     {
         "channel_id": 585,
@@ -18073,7 +18073,7 @@
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zing_MOB/WDVLive/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
@@ -18086,7 +18086,7 @@
         "logo": "Zoom.png",
         "category": "Music",
         "mpd": "https://jiotvpllive.cdn.jio.com/bpk-tv/Zoom_BTS/output/index.mpd",
-        "token": "st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
+        "token": "__hdnea__=st=1772785044~exp=1772871444~acl=/*~hmac=d726a8a301a63ac98d5ab2dd8b06d8385b77320998e3c0b81f5ebfed0e899427",
         "referer": "https://www.jiotv.com/",
         "userAgent": "plaYtv/7.1.3 (Linux;Android 14) ExoPlayerLib/2.11.7",
         "drm": {
