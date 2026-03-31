@@ -1,5 +1,16 @@
 [
     {
+        "name": "Join Telegram - AllInOne Reborn",
+        "logo": "https://i.ibb.co/N2yz4PkY/1738743366692.png",
+        "category": "Info",
+        "mpd": "",
+        "token": "",
+        "referer": "https://t.me/allinone_reborn",
+        "userAgent": "",
+        "drm": {},
+        "telegram": "https://t.me/allinone_reborn"
+    },
+    {
         "channel_id": "143",
         "name": "CNBC Tv18 Prime HD",
         "logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",
